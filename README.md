@@ -37,7 +37,6 @@ Pluralsight curriculum
 - Quick Start to JavaScript: Volume 3
 - jQuery: Getting Started
 - React.js: Getting Started
-- JavaScript Fundamentals
 - AngularJS Patterns: Clean Code
 - AngularJS: Get Started
 - jQuery: Getting Started
