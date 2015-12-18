@@ -30,9 +30,6 @@ Pluralsight curriculum
 - Hands On Responsive Web Design
 - Learning To Program - Being A Better Programmer
 - Sweet.js: Get Started
-
-
-
 - JavaScript Templating with Handlebars
 - NPM Playbook
 - Quick Start to JavaScript: Volume 1
