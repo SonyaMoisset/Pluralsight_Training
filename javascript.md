@@ -15,3 +15,14 @@ COMPLETED | 18/12/2015
 - Truth
 - Functions
 - Data and Objects
+
+## JavaScript Fundamentals by Liam McLennan
+COMPLETED | 18/12/2015
+
+- Introduction to JavaScript
+- THe Building Blocks of JavaScript Programs
+- Functions
+- Control Flow
+- Types and Librairies
+- Firebug
+- Testing JavaScript
