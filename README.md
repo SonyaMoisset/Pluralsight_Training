@@ -1,6 +1,6 @@
 # Pluralsight
 Pluralsight curriculum
 
-## JavaScript
-
+## Front End Development Development
 ## HTML5
+## JavaScript
