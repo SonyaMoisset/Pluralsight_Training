@@ -26,3 +26,11 @@ COMPLETED | 18/12/2015
 - Types and Librairies
 - Firebug
 - Testing JavaScript
+
+## JavaScript Templating with Handlebars by Ryan Lewis
+COMPLETED | 21/12/2015
+
+- Handlebars: An Introduction
+- Building Blocks fo Handlebars
+- Harnessing the Power of Helpers
+- Beyond the Basics
