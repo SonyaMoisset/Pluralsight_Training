@@ -34,3 +34,13 @@ COMPLETED | 21/12/2015
 - Building Blocks fo Handlebars
 - Harnessing the Power of Helpers
 - Beyond the Basics
+
+## JavaScript the Good Parts by Douglas Crockford
+COMPLETED | 22/12/2015
+
+- Introduction
+- Programming Style & Your Brain
+- And Then There Was JavaScript
+- Function the Ultimate
+- Problems
+- Monads & Gonads
