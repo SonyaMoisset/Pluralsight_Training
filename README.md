@@ -12,3 +12,4 @@ Pluralsight curriculum
 - JavaScript From Scratch by Jesse Liberty
 - JavaScript Fundamentals by Liam McLennan
 - JavaScript Templating with Handlebars by Ryan Lewis
+- JavaScript the Good Parts by Douglas Crockford
