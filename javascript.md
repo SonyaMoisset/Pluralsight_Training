@@ -44,3 +44,10 @@ COMPLETED | 22/12/2015
 - Function the Ultimate
 - Problems
 - Monads & Gonads
+
+## JavaScript Objects and Prototypes by Jim Cooper
+COMPLETED | 22/12/2015
+
+- Creating JavaScript Objects
+- JavaScript Object Properties
+- JavaScript Prototypes and Inheritance
