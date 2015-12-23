@@ -14,3 +14,4 @@ Pluralsight curriculum
 - JavaScript Templating with Handlebars by Ryan Lewis
 - JavaScript the Good Parts by Douglas Crockford
 - JavaScript Objects and Prototypes by Jim Cooper
+- Quick Start to JavaScript: Volume 1 by Susan Simkins
