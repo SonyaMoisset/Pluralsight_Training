@@ -51,3 +51,9 @@ COMPLETED | 22/12/2015
 - Creating JavaScript Objects
 - JavaScript Object Properties
 - JavaScript Prototypes and Inheritance
+
+## Quick Start to JavaScript: Volume 1 by Susan Simkins
+COMPLETED | 24/12/2015
+
+- Introduction and Project Overview
+- Quick Start to JavaScript: Volume 1
