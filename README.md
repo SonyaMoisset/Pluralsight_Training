@@ -8,6 +8,9 @@ Pluralsight curriculum
 - HTML Document Flow by Susan Simkins
 - Get Started With HTML5 Boilerplate by Chris Reynolds
 
+## CSS/CSS3
+- CSS Positioning by Susan Simkins
+
 ## JavaScript
 - Basics of Programming with JavaScript by Kyle Simpson
 - JavaScript From Scratch by Jesse Liberty
