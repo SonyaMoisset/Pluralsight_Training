@@ -4,7 +4,8 @@ Pluralsight curriculum
 ## Front End Development Development
 - Front End Web Development: Get Started by Joe Eames
 
-## HTML5
+## HTML/HTML5
+- HTML Document Flow by Susan Simkins
 - Get Started With HTML5 Boilerplate by Chris Reynolds
 
 ## JavaScript
