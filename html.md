@@ -1,4 +1,4 @@
-# HTML5
+# HTML/HTML5
 
 ## Get Started With HTML5 Boilerplate by Chris Reynolds
 COMPLETED | 20/12/2015
