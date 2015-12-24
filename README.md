@@ -15,3 +15,4 @@ Pluralsight curriculum
 - JavaScript the Good Parts by Douglas Crockford
 - JavaScript Objects and Prototypes by Jim Cooper
 - Quick Start to JavaScript: Volume 1 by Susan Simkins
+- Quick Start to JavaScript: Volume 2 by Susan Simkins
