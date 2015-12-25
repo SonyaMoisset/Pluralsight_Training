@@ -63,3 +63,9 @@ COMPLETED | 24/12/2015
 
 - Introduction and Project Overview
 - Quick Start to JavaScript: Volume 2
+
+## Quick Start to JavaScript: Volume 3 by Susan Simkins
+COMPLETED | 25/12/2015
+
+- Introduction and Project Overview
+- Quick Start to JavaScript: Volume 3
