@@ -2,6 +2,7 @@
 Pluralsight curriculum
 
 ## Front End Development Development
+- Learning To Program - Being A Better Programmer by Scott Allen and Iris Classon
 - Front End Web Development: Get Started by Joe Eames
 
 ## HTML/HTML5
