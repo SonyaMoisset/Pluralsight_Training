@@ -11,6 +11,7 @@ Pluralsight curriculum
 
 ## CSS/CSS3
 - CSS Positioning by Susan Simkins
+- Creating Elegant Navigation Using CSS3 Transitions by Susan Simkins
 
 ## JavaScript
 - Basics of Programming with JavaScript by Kyle Simpson
