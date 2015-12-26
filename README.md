@@ -15,6 +15,7 @@ Pluralsight curriculum | Completed courses:16
 
 ## Bootstrap
 - Responsive Websites With Bootstrap 3 by Mark Zamoyta
+- Introduction to Bootstrap by Scott Allen
 
 ## JavaScript
 - Basics of Programming with JavaScript by Kyle Simpson
