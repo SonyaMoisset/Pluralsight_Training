@@ -1,5 +1,5 @@
 # Pluralsight
-Pluralsight curriculum
+Pluralsight curriculum | Completed courses:16
 
 ## Front End Development Development
 - Learning To Program - Being A Better Programmer by Scott Allen and Iris Classon
@@ -12,6 +12,9 @@ Pluralsight curriculum
 ## CSS/CSS3
 - CSS Positioning by Susan Simkins
 - Creating Elegant Navigation Using CSS3 Transitions by Susan Simkins
+
+## Bootstrap
+- Responsive Websites With Bootstrap 3 by Mark Zamoyta
 
 ## JavaScript
 - Basics of Programming with JavaScript by Kyle Simpson
