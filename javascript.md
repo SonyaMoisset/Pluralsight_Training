@@ -69,3 +69,12 @@ COMPLETED | 25/12/2015
 
 - Introduction and Project Overview
 - Quick Start to JavaScript: Volume 3
+
+## Structuring JavaScript Code by Dan Wahlin
+COMPLETED | 27/12/2015
+
+- Why do we Need JavaScript Patterns?
+- Prototype Pattern
+- Module Pattern
+- Revealing Module Pattern
+- Revealing Prototype Pattern
