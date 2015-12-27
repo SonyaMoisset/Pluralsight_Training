@@ -27,3 +27,4 @@ Pluralsight curriculum | Completed courses:16
 - Quick Start to JavaScript: Volume 1 by Susan Simkins
 - Quick Start to JavaScript: Volume 2 by Susan Simkins
 - Quick Start to JavaScript: Volume 3 by Susan Simkins
+- Structuring JavaScript Code by Dan Wahlin
