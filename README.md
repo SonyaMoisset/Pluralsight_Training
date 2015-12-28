@@ -7,6 +7,7 @@ Pluralsight curriculum | Completed courses:16
 
 ## Tools
 - Sublime Text 3 From Scratch by Jesse Liberty
+- Bower Fundamentals by Joe Eames
 
 ## HTML/HTML5
 - HTML Document Flow by Susan Simkins
