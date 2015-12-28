@@ -5,6 +5,9 @@ Pluralsight curriculum | Completed courses:16
 - Learning To Program - Being A Better Programmer by Scott Allen and Iris Classon
 - Front End Web Development: Get Started by Joe Eames
 
+## Tools
+- Sublime Text 3 From Scratch by Jesse Liberty
+
 ## HTML/HTML5
 - HTML Document Flow by Susan Simkins
 - Get Started With HTML5 Boilerplate by Chris Reynolds
