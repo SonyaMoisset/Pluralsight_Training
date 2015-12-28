@@ -8,3 +8,12 @@ COMPLETED | 28/12/2015
 - Extending Sublime Text
 - Editing with Sublime Text
 - Automating Sublime Text
+
+## Bower Fundamentals by Joe Eames
+COMPLETED | 28/12/2015
+
+- Course Introduction
+- Bower Basics
+- Bower Configuration
+- Advanced Bower Topics
+- Publishing a Bower Package
