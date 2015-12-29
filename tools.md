@@ -17,3 +17,12 @@ COMPLETED | 28/12/2015
 - Bower Configuration
 - Advanced Bower Topics
 - Publishing a Bower Package
+
+## Using The Chrome Developer Tools by John Sonmez
+COMPLETED | 29/12/2015
+
+- Overview and Console
+- Elements Panel
+- Resources And Network Panels
+- Sources And Network Panels
+- Timeline And Profiles Panels
