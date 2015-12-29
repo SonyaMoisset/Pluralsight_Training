@@ -8,6 +8,7 @@ Pluralsight curriculum | Completed courses:16
 ## Tools
 - Sublime Text 3 From Scratch by Jesse Liberty
 - Bower Fundamentals by Joe Eames
+- Using The Chrome Developer Tools by John Sonmez
 
 ## HTML/HTML5
 - HTML Document Flow by Susan Simkins
@@ -32,3 +33,10 @@ Pluralsight curriculum | Completed courses:16
 - Quick Start to JavaScript: Volume 2 by Susan Simkins
 - Quick Start to JavaScript: Volume 3 by Susan Simkins
 - Structuring JavaScript Code by Dan Wahlin
+
+## In Progress
+- Using the Chrome Developer Tools
+- Introduction to Web Development
+- jQuery: Getting Started
+- JavaScript Build Animation With Gulp.js
+- Extending Bootstrap with CSS, JavaScript, and jQuery
