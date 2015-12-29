@@ -78,3 +78,12 @@ COMPLETED | 27/12/2015
 - Module Pattern
 - Revealing Module Pattern
 - Revealing Prototype Pattern
+
+## JavaScript Design Patterns by Aaron Powell
+COMPLETED | 29/12/2015
+
+- Common Object Patterns
+- Timer Patterns
+- Asynchronous Module Definitions
+- Pub/Sub Design Pattern
+- Promises
