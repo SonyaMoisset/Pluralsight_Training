@@ -34,9 +34,10 @@ Pluralsight curriculum | Completed courses:16
 - Quick Start to JavaScript: Volume 3 by Susan Simkins
 - Structuring JavaScript Code by Dan Wahlin
 
+## jQuery
+- jQuery: Getting Started by Craig Shoemaker
+
 ## In Progress
-- Using the Chrome Developer Tools
 - Introduction to Web Development
-- jQuery: Getting Started
 - JavaScript Build Animation With Gulp.js
 - Extending Bootstrap with CSS, JavaScript, and jQuery
