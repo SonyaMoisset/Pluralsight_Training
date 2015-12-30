@@ -43,5 +43,6 @@ Pluralsight curriculum | Completed courses:16
 
 ## In Progress
 - Introduction to Web Development
+- Fixing Common JavaScript Bugs
 - JavaScript Build Animation With Gulp.js
 - Extending Bootstrap with CSS, JavaScript, and jQuery
