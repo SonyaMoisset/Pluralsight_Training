@@ -38,6 +38,9 @@ Pluralsight curriculum | Completed courses:16
 ## jQuery
 - jQuery: Getting Started by Craig Shoemaker
 
+## Web Application
+- Building a Web Application with Polymer.js and Material Design by Bill Stavroulakis
+
 ## In Progress
 - Introduction to Web Development
 - JavaScript Build Animation With Gulp.js
