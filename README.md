@@ -11,6 +11,7 @@ Pluralsight curriculum | Completed courses:16
 - Using The Chrome Developer Tools by John Sonmez
 
 ## HTML/HTML5
+- HTML Fundamentals by Matt Milner
 - HTML Document Flow by Susan Simkins
 - Get Started With HTML5 Boilerplate by Chris Reynolds
 
