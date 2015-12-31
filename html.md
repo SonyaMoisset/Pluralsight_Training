@@ -13,3 +13,13 @@ COMPLETED | 24/12/2015
 
 - Introduction and Project Overview
 - HTML Document Flow
+
+## HTML Fundamentals by Matt Milner
+COMPLETED | 31/12/2015
+
+- HTML Fundamentals Introduction
+- HTML Text
+- HTML Lists
+- HTML Links
+- HTML Tables
+- HTML Images and Objects
