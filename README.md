@@ -15,6 +15,7 @@ Pluralsight curriculum | Completed courses:16
 - Get Started With HTML5 Boilerplate by Chris Reynolds
 
 ## CSS/CSS3
+- Introduction to CSS by Scott Allen
 - CSS Positioning by Susan Simkins
 - Creating Elegant Navigation Using CSS3 Transitions by Susan Simkins
 
