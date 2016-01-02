@@ -11,3 +11,12 @@ COMPLETED | 29/12/2015
 - Chaining Makes It Easer
 - Working with User Input
 - The Big Picture
+
+## jQuery UI by Scott Allen
+COMPLETED | 02/01/2015
+
+- Introduction to jQuery UI
+- jQuery UI Widges Part I
+- jQuery UI Widges Part II
+- Interactions with jQuery UI
+- jQuery UI Effects
