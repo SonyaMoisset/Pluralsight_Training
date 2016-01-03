@@ -87,3 +87,12 @@ COMPLETED | 29/12/2015
 - Asynchronous Module Definitions
 - Pub/Sub Design Pattern
 - Promises
+
+## Fixing Common JavaScript Bugs by Elijah Manor
+COMPLETED | 03/01/2015
+
+- Statement Bugs
+- Expression and Operator Bugs
+- Function Bugs
+- Value, Variable, and Literal Bugs
+- Object Bugs
