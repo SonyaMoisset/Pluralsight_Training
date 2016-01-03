@@ -89,7 +89,7 @@ COMPLETED | 29/12/2015
 - Promises
 
 ## Fixing Common JavaScript Bugs by Elijah Manor
-COMPLETED | 03/01/2015
+COMPLETED | 03/01/2016
 
 - Statement Bugs
 - Expression and Operator Bugs
