@@ -1,5 +1,5 @@
 # Pluralsight
-Pluralsight curriculum | Completed courses: 30 | Certificates: 3
+Pluralsight curriculum | Completed courses: 30 | Certificates: 4
 
 ## Front End Development Development
 - Learning To Program - Being A Better Programmer by Scott Allen and Iris Classon
