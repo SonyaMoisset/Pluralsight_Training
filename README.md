@@ -1,5 +1,5 @@
 # Pluralsight
-Pluralsight curriculum | Completed courses:16
+Pluralsight curriculum | Completed courses:29 | Certificates : 3
 
 ## Front End Development Development
 - Learning To Program - Being A Better Programmer by Scott Allen and Iris Classon
@@ -18,6 +18,7 @@ Pluralsight curriculum | Completed courses:16
 ## CSS/CSS3
 - Introduction to CSS by Scott Allen
 - CSS Positioning by Susan Simkins
+- CSS Flexbox Fundamentals by Gary Simon
 - Creating Elegant Navigation Using CSS3 Transitions by Susan Simkins
 
 ## Bootstrap
