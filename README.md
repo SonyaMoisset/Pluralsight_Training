@@ -1,5 +1,5 @@
 # Pluralsight
-Pluralsight curriculum | Completed courses:29 | Certificates : 3
+Pluralsight curriculum | Completed courses: 30 | Certificates: 3
 
 ## Front End Development Development
 - Learning To Program - Being A Better Programmer by Scott Allen and Iris Classon
@@ -24,6 +24,9 @@ Pluralsight curriculum | Completed courses:29 | Certificates : 3
 ## Bootstrap
 - Responsive Websites With Bootstrap 3 by Mark Zamoyta
 - Introduction to Bootstrap by Scott Allen
+
+## Foundation
+- Hands On Foundation 5 by Paul Cheney
 
 ## JavaScript
 - Basics of Programming with JavaScript by Kyle Simpson
