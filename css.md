@@ -20,3 +20,9 @@ COMPLETED + CERTIFICATE | 31/12/2015
 - CSS and the Box Model
 - Styling Text with CSS
 - Layout with CSS
+
+## CSS Flexbox Fundamentals by Gary Simon
+COMPLETED | 03/01/2016
+
+- Introduction and Project Overview
+- CSS Flexbox Fundamentals
