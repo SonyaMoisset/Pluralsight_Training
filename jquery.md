@@ -13,7 +13,7 @@ COMPLETED | 29/12/2015
 - The Big Picture
 
 ## jQuery UI by Scott Allen
-COMPLETED | 02/01/2015
+COMPLETED + CERTIFICATE | 02/01/2015
 
 - Introduction to jQuery UI
 - jQuery UI Widges Part I
