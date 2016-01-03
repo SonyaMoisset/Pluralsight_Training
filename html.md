@@ -15,7 +15,7 @@ COMPLETED | 24/12/2015
 - HTML Document Flow
 
 ## HTML Fundamentals by Matt Milner
-COMPLETED | 31/12/2015
+COMPLETED + CERTIFICATE | 31/12/2015
 
 - HTML Fundamentals Introduction
 - HTML Text
