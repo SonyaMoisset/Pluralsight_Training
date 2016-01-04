@@ -20,3 +20,10 @@ COMPLETED + CERTIFICATE | 02/01/2015
 - jQuery UI Widges Part II
 - Interactions with jQuery UI
 - jQuery UI Effects
+
+## jQuery Template Fundamentals by Matt Milner
+COMPLETED | 04/01/2015
+
+- jQuery Template Basics
+- Nesting with jQuery Templates
+- Scripting jQuery Templates
