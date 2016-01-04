@@ -44,6 +44,7 @@ Pluralsight curriculum | Completed courses: 30 | Certificates: 4
 
 ## jQuery
 - jQuery: Getting Started by Craig Shoemaker
+- jQuery Template Fundamentals by Matt Milner
 - jQuery UI by Scott Allen
 
 ## Web Application
