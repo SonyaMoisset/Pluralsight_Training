@@ -1,5 +1,5 @@
 # Pluralsight
-Pluralsight curriculum | Completed courses: 30 | Certificates: 4
+Pluralsight curriculum | Completed courses: 32 | Certificates: 4
 
 ## Front End Development Development
 - Learning To Program - Being A Better Programmer by Scott Allen and Iris Classon
@@ -44,6 +44,7 @@ Pluralsight curriculum | Completed courses: 30 | Certificates: 4
 
 ## jQuery
 - jQuery: Getting Started by Craig Shoemaker
+- jQuery Fundamentals by Dan Wahlin
 - jQuery Template Fundamentals by Matt Milner
 - jQuery UI by Scott Allen
 
