@@ -27,3 +27,12 @@ COMPLETED | 04/01/2015
 - jQuery Template Basics
 - Nesting with jQuery Templates
 - Scripting jQuery Templates
+
+## jQuery Fundamentals by DAN Wahlin
+COMPLETED | 06/01/2015
+
+- jQuery Fundamentals
+- Using jQuery Selectors
+- Interacting with the DOM
+- Handling Events
+- Working with Ajax Features
