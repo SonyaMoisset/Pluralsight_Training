@@ -48,11 +48,14 @@ Pluralsight curriculum | Completed courses: 32 | Certificates: 4
 - jQuery Template Fundamentals by Matt Milner
 - jQuery UI by Scott Allen
 
+## React
+- Styling React Components by Jake Trent
+
 ## Web Application
 - Building a Web Application with Polymer.js and Material Design by Bill Stavroulakis
 
 ## In Progress
 - Introduction to Web Development
-- Fixing Common JavaScript Bugs
+- HTML5 Fundamentals
 - JavaScript Build Animation With Gulp.js
 - Extending Bootstrap with CSS, JavaScript, and jQuery
