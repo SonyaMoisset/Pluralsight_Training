@@ -1,5 +1,5 @@
 # Pluralsight
-Pluralsight curriculum | Completed courses: 32 | Certificates: 4
+Pluralsight curriculum | Completed courses: 34 | Certificates: 4
 
 ## Front End Development Development
 - Learning To Program - Being A Better Programmer by Scott Allen and Iris Classon
@@ -59,4 +59,6 @@ Pluralsight curriculum | Completed courses: 32 | Certificates: 4
 - Introduction to Web Development
 - HTML5 Fundamentals
 - JavaScript Build Animation With Gulp.js
+- JavaScript: Advanced Fundamentals to jQuery & Pure DOM Scripting
+- JavaScript: From Fundamentals to Functional JS
 - Extending Bootstrap with CSS, JavaScript, and jQuery
