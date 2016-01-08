@@ -26,3 +26,11 @@ COMPLETED | 29/12/2015
 - Resources And Network Panels
 - Sources And Network Panels
 - Timeline And Profiles Panels
+
+## NPM Playbook by Joe Eames
+COMPLETED | 08/01/2016
+
+- Course Overview
+- NOM Basics
+- Advanced NPM
+- Publishing Your Own Package
