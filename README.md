@@ -32,6 +32,7 @@ Pluralsight curriculum | Completed courses: 37 | Certificates: 4
 
 ## JavaScript
 - Basics of Programming with JavaScript by Kyle Simpson
+- Play by Play: HTML, CSS, and JavaScript with Lea Verou
 - JavaScript From Scratch by Jesse Liberty
 - JavaScript Fundamentals by Liam McLennan
 - JavaScript Templating with Handlebars by Ryan Lewis
