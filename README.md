@@ -52,6 +52,7 @@ Pluralsight curriculum | Completed courses: 35 | Certificates: 4
 ## React
 - Styling React Components by Jake Trent
 - React.js: Getting Started by Samer Buna
+- Play by Play: React and Falcor with Brian Holt by Brian Holt and Geoffrey Grosenbach
 
 ## Web Application
 - Building a Web Application with Polymer.js and Material Design by Bill Stavroulakis
