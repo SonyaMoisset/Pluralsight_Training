@@ -96,3 +96,11 @@ COMPLETED | 03/01/2016
 - Function Bugs
 - Value, Variable, and Literal Bugs
 - Object Bugs
+
+## Play by Play: HTML, CSS, and JavaScript with Lea Verou
+COMPLETED | 09/01/2016
+
+- Introduction
+- Data Model and Game Mechanics
+- HTML Game View
+- Accessibility and Styling
