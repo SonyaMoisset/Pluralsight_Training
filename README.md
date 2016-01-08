@@ -1,5 +1,5 @@
 # Pluralsight
-Pluralsight curriculum | Completed courses: 34 | Certificates: 4
+Pluralsight curriculum | Completed courses: 35 | Certificates: 4
 
 ## Front End Development Development
 - Learning To Program - Being A Better Programmer by Scott Allen and Iris Classon
@@ -8,6 +8,7 @@ Pluralsight curriculum | Completed courses: 34 | Certificates: 4
 ## Tools
 - Sublime Text 3 From Scratch by Jesse Liberty
 - Bower Fundamentals by Joe Eames
+- NPM Playbook by Joe Eames
 - Using The Chrome Developer Tools by John Sonmez
 
 ## HTML/HTML5
