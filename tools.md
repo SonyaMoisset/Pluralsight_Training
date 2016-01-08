@@ -34,3 +34,9 @@ COMPLETED | 08/01/2016
 - NOM Basics
 - Advanced NPM
 - Publishing Your Own Package
+
+## Introduction to Git by Geoffrey Grosenbach
+COMPLETED | 08/01/2016
+
+- Introduction to Git: Part 1
+- Introduction to Git: Part 2
