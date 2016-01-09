@@ -1,5 +1,5 @@
 # Pluralsight
-Pluralsight curriculum | Completed courses: 37 | Certificates: 4
+Pluralsight curriculum | Completed courses: 38 | Certificates: 4
 
 ## Front End Development Development
 - Learning To Program - Being A Better Programmer by Scott Allen and Iris Classon
@@ -35,6 +35,7 @@ Pluralsight curriculum | Completed courses: 37 | Certificates: 4
 - Play by Play: HTML, CSS, and JavaScript with Lea Verou
 - JavaScript From Scratch by Jesse Liberty
 - JavaScript Fundamentals by Liam McLennan
+- JavaScript: From Fundamentals to Functional JS by Bianca Gandolfo
 - JavaScript Templating with Handlebars by Ryan Lewis
 - JavaScript the Good Parts by Douglas Crockford
 - JavaScript Objects and Prototypes by Jim Cooper
@@ -64,5 +65,4 @@ Pluralsight curriculum | Completed courses: 37 | Certificates: 4
 - HTML5 Fundamentals
 - JavaScript Build Animation With Gulp.js
 - JavaScript: Advanced Fundamentals to jQuery & Pure DOM Scripting
-- JavaScript: From Fundamentals to Functional JS
 - Extending Bootstrap with CSS, JavaScript, and jQuery
