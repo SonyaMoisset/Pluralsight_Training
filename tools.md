@@ -40,3 +40,10 @@ COMPLETED | 08/01/2016
 
 - Introduction to Git: Part 1
 - Introduction to Git: Part 2
+
+## Introduction to Git by Geoffrey Grosenbach
+COMPLETED | 09/01/2016
+
+- Introduction
+- Troubleshooting Strategies
+- Conclusion
