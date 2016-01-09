@@ -104,3 +104,15 @@ COMPLETED | 09/01/2016
 - Data Model and Game Mechanics
 - HTML Game View
 - Accessibility and Styling
+
+## JavaScript: From Fundamentals to Functional JS by Bianca Gandolfo
+COMPLETED | 09/01/2016
+
+- Objects
+- Arrays
+- Functions
+- Nesting
+- Scope
+- Closure
+- Callbacks
+- Underscore.js
