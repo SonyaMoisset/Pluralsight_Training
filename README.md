@@ -66,4 +66,5 @@ Pluralsight curriculum | Completed courses: 39 | Certificates: 4
 - HTML5 Fundamentals
 - JavaScript Build Animation With Gulp.js
 - JavaScript: Advanced Fundamentals to jQuery & Pure DOM Scripting
+- Rapid JavaScript Training by Mark Zamoyta
 - Extending Bootstrap with CSS, JavaScript, and jQuery
