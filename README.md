@@ -1,5 +1,5 @@
 # Pluralsight
-Pluralsight curriculum | Completed courses: 42 | Certificates: 4
+Pluralsight curriculum | Completed courses: 43 | Certificates: 4
 
 ## Front End Development Development
 - Learning To Program - Being A Better Programmer by Scott Allen and Iris Classon
@@ -56,6 +56,7 @@ Pluralsight curriculum | Completed courses: 42 | Certificates: 4
 
 ## Angular
 - Angular: The Big Picture by Joe Eames
+- Creating a Mobile First Website with AngularJS and Sass by Zulfeekar Cheriyampurath
 
 ## React
 - Styling React Components by Jake Trent
