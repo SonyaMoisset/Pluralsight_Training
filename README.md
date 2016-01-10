@@ -25,6 +25,9 @@ Pluralsight curriculum | Completed courses: 43 | Certificates: 4
 - CSS Flexbox Fundamentals by Gary Simon
 - Creating Elegant Navigation Using CSS3 Transitions by Susan Simkins
 
+## SVG
+- SVG Fundamentals by Brian Treese
+
 ## Bootstrap
 - Responsive Websites With Bootstrap 3 by Mark Zamoyta
 - Introduction to Bootstrap by Scott Allen
