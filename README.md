@@ -1,5 +1,5 @@
 # Pluralsight
-Pluralsight curriculum | Completed courses: 40 | Certificates: 4
+Pluralsight curriculum | Completed courses: 42 | Certificates: 4
 
 ## Front End Development Development
 - Learning To Program - Being A Better Programmer by Scott Allen and Iris Classon
@@ -17,6 +17,7 @@ Pluralsight curriculum | Completed courses: 40 | Certificates: 4
 - HTML Fundamentals by Matt Milner
 - HTML Document Flow by Susan Simkins
 - Get Started With HTML5 Boilerplate by Chris Reynolds
+- The Anatomy of Email Design in HTML by Stephen Sharp
 
 ## CSS/CSS3
 - Introduction to CSS by Scott Allen
