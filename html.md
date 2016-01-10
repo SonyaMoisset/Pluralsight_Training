@@ -23,3 +23,9 @@ COMPLETED + CERTIFICATE | 31/12/2015
 - HTML Links
 - HTML Tables
 - HTML Images and Objects
+
+## The Anatomy of Email Design in HTML by Stephen Sharp
+COMPLETED | 10/01/2016
+
+- Introduction and Project Overview
+- The Anatomy of Email Design in HTML
