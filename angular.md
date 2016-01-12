@@ -1,6 +1,6 @@
 # Angular
 
-## Angular: The Big Pictureby Joe Eames
+## Angular: The Big Picture by Joe Eames
 COMPLETED | 10/01/2016
 
 - Introduction
@@ -16,3 +16,11 @@ COMPLETED | 10/01/2016
 
 - Introduction and Project Overview
 - Creating a Mobile FIrst Website with Angular JS and Sass
+
+## Play by Play: Learning AngularJS With Ken Cenerelli and John Papa by John Papa and Geoffrey Grosenbach
+COMPLETED | 12/01/2016
+
+- Introduction
+- Session 1
+- Session 2
+- Conclusion
