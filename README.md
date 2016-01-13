@@ -1,7 +1,8 @@
 # Pluralsight
-Pluralsight curriculum | Completed courses: 44 | Certificates: 4
+Pluralsight curriculum | Completed courses: 46 | Certificates: 4
 
 ## Front End Development Development
+- Introduction to the Web by Susan Simkins
 - Learning To Program - Being A Better Programmer by Scott Allen and Iris Classon
 - Front End Web Development: Get Started by Joe Eames
 
