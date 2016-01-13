@@ -20,3 +20,9 @@ COMPLETED | 25/12/2015
 - Learning Code
 - Learning in the Workplace
 - Planning to Learn and Learning to Plan
+
+## Introduction to the Web by Susan Simkins
+COMPLETED | 13/01/2015
+
+- Introduction and Project Overview
+- Introduction to the Web
