@@ -29,3 +29,12 @@ COMPLETED | 08/01/2016
 - React Setup
 - Connecting React and Falcor
 - Open Source and Your Career
+
+## React Fundamentals by Liam McLennan
+COMPLETED | 14/01/2016
+
+- Introducing React
+- Components
+- JSX
+- Events
+- Forms
