@@ -47,3 +47,14 @@ COMPLETED | 09/01/2016
 - Introduction
 - Troubleshooting Strategies
 - Conclusion
+
+## Webpack Fundamentals by Joe Eames
+COMPLETED | 14/01/2016
+
+- Introduction
+- Basic Builds with Webpack
+- Advance Builds with Webpack
+- Adding CSS to Your Build
+- Adding Images & Fonts to Your Build
+- Webpack Tools
+- Webpack and Front End Frameworks
