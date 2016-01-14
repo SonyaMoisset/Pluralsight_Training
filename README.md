@@ -1,5 +1,5 @@
 # Pluralsight
-Pluralsight curriculum | Completed courses: 47 | Certificates: 4
+Pluralsight curriculum | Completed courses: 48 | Certificates: 4
 
 ## Front End Development Development
 - Introduction to the Web by Susan Simkins
@@ -68,6 +68,7 @@ Pluralsight curriculum | Completed courses: 47 | Certificates: 4
 - Styling React Components by Jake Trent
 - React.js: Getting Started by Samer Buna
 - Play by Play: React and Falcor with Brian Holt by Brian Holt and Geoffrey Grosenbach
+- React Fundamentals by Liam McLennan
 
 ## Web Application
 - Building a Web Application with Polymer.js and Material Design by Bill Stavroulakis
