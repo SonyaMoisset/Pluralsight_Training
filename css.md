@@ -26,3 +26,9 @@ COMPLETED | 03/01/2016
 
 - Introduction and Project Overview
 - CSS Flexbox Fundamentals
+
+## Speeding up Your CSS Workflow with Sass and Compass by Gary Simon
+COMPLETED | 14/01/2016
+
+- Introduction and Project Overview
+- Speeding up Your CSS Workflow with Sass and Compass
