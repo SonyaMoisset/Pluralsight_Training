@@ -1,5 +1,5 @@
 # Pluralsight
-Pluralsight curriculum | Completed courses: 49 | Certificates: 4
+Pluralsight curriculum | Completed courses: 50 | Certificates: 4
 
 ## Front End Development Development
 - Introduction to the Web by Susan Simkins
@@ -25,6 +25,7 @@ Pluralsight curriculum | Completed courses: 49 | Certificates: 4
 - Introduction to CSS by Scott Allen
 - CSS Positioning by Susan Simkins
 - CSS Flexbox Fundamentals by Gary Simon
+- Modern Web Layout with Flexbox and CSS Grid by Brian Treese
 - Creating Elegant Navigation Using CSS3 Transitions by Susan Simkins
 - Speeding up Your CSS Workflow with Sass and Compass by Gary Simon
 
