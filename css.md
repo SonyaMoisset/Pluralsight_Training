@@ -32,3 +32,11 @@ COMPLETED | 14/01/2016
 
 - Introduction and Project Overview
 - Speeding up Your CSS Workflow with Sass and Compass
+
+## Modern Web Layout with Flexbox and CSS Grid by Brian Treese
+COMPLETED | 16/01/2016
+
+- Introduction
+- Flexbox
+- CSS Grid Layout
+- Gotchas, Browser Support, & Resources
