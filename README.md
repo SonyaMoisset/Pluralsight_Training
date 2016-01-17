@@ -10,6 +10,7 @@ Pluralsight curriculum | Completed courses: 50 | Certificates: 4
 - Sublime Text 3 From Scratch by Jesse Liberty
 - Introduction to Git by Geoffrey Grosenbach
 - Bower Fundamentals by Joe Eames
+- Creating JavaScript Modules with Browserify by Jeff Valore
 - Webpack Fundamentals by Joe Eames
 - NPM Playbook by Joe Eames
 - Using The Chrome Developer Tools by John Sonmez
@@ -78,7 +79,7 @@ Pluralsight curriculum | Completed courses: 50 | Certificates: 4
 ## In Progress
 - Introduction to Web Development
 - HTML5 Fundamentals
-- JavaScript Build Animation With Gulp.js
+- JavaScript Build Automation  With Gulp.js
 - JavaScript: Advanced Fundamentals to jQuery & Pure DOM Scripting
 - Rapid JavaScript Training
 - Practical Design Patterns in JavaScript
