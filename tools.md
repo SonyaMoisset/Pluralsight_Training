@@ -58,3 +58,12 @@ COMPLETED | 14/01/2016
 - Adding Images & Fonts to Your Build
 - Webpack Tools
 - Webpack and Front End Frameworks
+
+## Creating JavaScript Modules with Browserify by Jeff Valore
+COMPLETED | 17/01/2016
+
+- Getting Started with Modules and Browserify
+- Defining and Requiring Modules
+- Easing the Development Process
+- Using Transforms and Plugins
+- Unit Testing Browserify Modules
