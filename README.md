@@ -81,6 +81,7 @@ Pluralsight curriculum | Completed courses: 50 | Certificates: 4
 - JavaScript Build Animation With Gulp.js
 - JavaScript: Advanced Fundamentals to jQuery & Pure DOM Scripting
 - Rapid JavaScript Training
+- Practical Design Patterns in JavaScript
 - Extending Bootstrap with CSS, JavaScript, and jQuery
 - Building a Real-time App with React, Flux, Webpack, and Firebase
 - Building Data-driven React Applications with Relay, GraphQL, and Flux
