@@ -1,5 +1,5 @@
 # Pluralsight
-Pluralsight curriculum | Completed courses: 50 | Certificates: 4
+Pluralsight curriculum | Completed courses: 52 | Certificates: 4
 
 ## Front End Development Development
 - Introduction to the Web by Susan Simkins
@@ -55,6 +55,7 @@ Pluralsight curriculum | Completed courses: 50 | Certificates: 4
 - Structuring JavaScript Code by Dan Wahlin
 - JavaScript Design Patterns by Aaron Powell
 - Fixing Common JavaScript Bugs by Elijah Manor
+- JavaScript: Advanced Fundamentals to jQuery & Pure DOM Scripting by Justin Meyer and Alexis Abril
 
 ## jQuery
 - jQuery: Getting Started by Craig Shoemaker
@@ -80,7 +81,6 @@ Pluralsight curriculum | Completed courses: 50 | Certificates: 4
 - Introduction to Web Development
 - HTML5 Fundamentals
 - JavaScript Build Automation  With Gulp.js
-- JavaScript: Advanced Fundamentals to jQuery & Pure DOM Scripting
 - Rapid JavaScript Training
 - Practical Design Patterns in JavaScript
 - Extending Bootstrap with CSS, JavaScript, and jQuery
