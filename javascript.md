@@ -116,3 +116,19 @@ COMPLETED | 09/01/2016
 - Closure
 - Callbacks
 - Underscore.js
+
+## JavaScript: Advanced Fundamentals to jQuery & Pure DOM Scripting by Justin Meyer and Alexis Abril
+COMPLETED | 18/01/2016
+
+- JavaScript Basics
+- Data Types, Operators, and Primitives
+- Comparison
+- Closures
+- Context
+- Prototypal Inheritance
+- jQuery Functional Units
+- Finding Elements
+- Traversing Elements
+- Attributes and Properties
+- Events
+- Building a Tabs Widget
