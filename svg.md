@@ -7,4 +7,4 @@ COMPLETED | 10/01/2016
 - Working with SVG Code
 - D.R.Y Out Inline SVG Code with SVG "Sprites"
 - Animating SVG
-- SVG Optimization, Browser Support, Ressources, and Examples
+- SVG Optimization, Browser Support, Resources, and Examples
