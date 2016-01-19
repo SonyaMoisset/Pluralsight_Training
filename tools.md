@@ -67,3 +67,15 @@ COMPLETED | 17/01/2016
 - Easing the Development Process
 - Using Transforms and Plugins
 - Unit Testing Browserify Modules
+
+## Introduction to npm as a Build Tool by Marcus Hammarberg
+COMPLETED | 19/01/2016
+
+- Introduction
+- Getting Started
+- Pre and Post Hooks
+- Scripts for Development and Test
+- Scripts for Development: Watching
+- Versioning, Pushing, and Deploying
+- Deploy Script and Additional Tricks
+- npm as Build Script Summary
