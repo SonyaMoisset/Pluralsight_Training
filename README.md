@@ -1,5 +1,5 @@
 # Pluralsight
-Pluralsight curriculum | Completed courses: 52 | Certificates: 4
+Pluralsight curriculum | Completed courses: 53 | Certificates: 4
 
 ## Front End Development Development
 - Introduction to the Web by Susan Simkins
@@ -12,6 +12,7 @@ Pluralsight curriculum | Completed courses: 52 | Certificates: 4
 - Bower Fundamentals by Joe Eames
 - Creating JavaScript Modules with Browserify by Jeff Valore
 - Webpack Fundamentals by Joe Eames
+- Introduction to npm as a Build Tool by Marcus Hammarberg
 - NPM Playbook by Joe Eames
 - Using The Chrome Developer Tools by John Sonmez
 - Troubleshooting Skills by Geoffrey Grosenbach
