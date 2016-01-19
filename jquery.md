@@ -16,8 +16,8 @@ COMPLETED | 29/12/2015
 COMPLETED + CERTIFICATE | 02/01/2015
 
 - Introduction to jQuery UI
-- jQuery UI Widges Part I
-- jQuery UI Widges Part II
+- jQuery UI Widgets Part I
+- jQuery UI Widgets Part II
 - Interactions with jQuery UI
 - jQuery UI Effects
 
