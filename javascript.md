@@ -1,4 +1,4 @@
-# Javascript
+# JavaScript
 
 ## Basics of Programming with JavaScript by Kyle Simpson
 COMPLETED | 18/12/2015
@@ -20,10 +20,10 @@ COMPLETED | 18/12/2015
 COMPLETED | 18/12/2015
 
 - Introduction to JavaScript
-- THe Building Blocks of JavaScript Programs
+- Tee Building Blocks of JavaScript Programs
 - Functions
 - Control Flow
-- Types and Librairies
+- Types and Libraries
 - Firebug
 - Testing JavaScript
 
@@ -31,7 +31,7 @@ COMPLETED | 18/12/2015
 COMPLETED | 21/12/2015
 
 - Handlebars: An Introduction
-- Building Blocks fo Handlebars
+- Building Blocks for Handlebars
 - Harnessing the Power of Helpers
 - Beyond the Basics
 
