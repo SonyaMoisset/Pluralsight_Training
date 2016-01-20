@@ -79,3 +79,12 @@ COMPLETED | 19/01/2016
 - Versioning, Pushing, and Deploying
 - Deploy Script and Additional Tricks
 - npm as Build Script Summary
+
+## LinkedIn Strategy: Optimize Your Profile by Jason Alba
+COMPLETED | 20/01/2016
+
+- Introduction
+- LinkedIn Profile: Above the Fold
+- Summary and Experience
+- Skills and Recommendations
+- LinkedIn Profile: Kitchen Sink
