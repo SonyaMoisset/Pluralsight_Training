@@ -29,3 +29,13 @@ COMPLETED | 10/01/2016
 
 - Introduction and Project Overview
 - The Anatomy of Email Design in HTML
+
+## HTML5 Fundamentals by Craig Shoemaker
+COMPLETED | 20/01/2016
+
+- Introduction
+- DOM Selection
+- Forms
+- Media
+- Canvas
+- Drag and Drop
