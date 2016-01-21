@@ -132,3 +132,18 @@ COMPLETED | 18/01/2016
 - Attributes and Properties
 - Events
 - Building a Tabs Widget
+
+## Rapid JavaScript Training by Mark Zamoyta
+COMPLETED | 21/01/2016
+
+- Introduction
+- JavaScript Basics
+- Variables, Types, and Scope
+- Operators
+- Arrays and Reference Types
+- Objects, JSON, and Prototypes
+- Functions
+- Programming the BOM and DOM
+- Event Handlebars
+- Built-in Objects and Functions
+- Miscellaneous JavaScript Topics
