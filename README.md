@@ -59,6 +59,7 @@ Pluralsight curriculum | Completed courses: 56 | Certificates: 4
 - Structuring JavaScript Code by Dan Wahlin
 - JavaScript Design Patterns by Aaron Powell
 - Fixing Common JavaScript Bugs by Elijah Manor
+- Rapid JavaScript Training by Mark Zamoyta
 - JavaScript: Advanced Fundamentals to jQuery & Pure DOM Scripting by Justin Meyer and Alexis Abril
 
 ## jQuery
@@ -84,7 +85,6 @@ Pluralsight curriculum | Completed courses: 56 | Certificates: 4
 ## In Progress
 - Introduction to Web Development
 - JavaScript Build Automation  With Gulp.js
-- Rapid JavaScript Training
 - Practical Design Patterns in JavaScript
 - Extending Bootstrap with CSS, JavaScript, and jQuery
 - Building a Real-time App with React, Flux, Webpack, and Firebase
