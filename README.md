@@ -1,5 +1,5 @@
 # Pluralsight
-Pluralsight curriculum | Completed courses: 56 | Certificates: 4
+Pluralsight curriculum | Completed courses: 5 | Certificates: 4
 
 ## Front End Development Development
 - Introduction to the Web by Susan Simkins
@@ -66,6 +66,7 @@ Pluralsight curriculum | Completed courses: 56 | Certificates: 4
 - jQuery: Getting Started by Craig Shoemaker
 - jQuery Fundamentals by Dan Wahlin
 - jQuery Template Fundamentals by Matt Milner
+- Leveraging Fluid-width Principles for Responsive Design in jQuery by Saif Ebrahim
 - jQuery UI by Scott Allen
 
 ## Angular
