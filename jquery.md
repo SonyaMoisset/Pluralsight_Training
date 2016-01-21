@@ -36,3 +36,9 @@ COMPLETED | 06/01/2015
 - Interacting with the DOM
 - Handling Events
 - Working with Ajax Features
+
+## Leveraging Fluid-width Principles for Responsive Design in jQuery by Saif Ebrahim
+COMPLETED | 21/01/2016
+
+- Introduction and Project Overview
+- Leveraging Fluid-width Principles for Responsive Design in jQuery
