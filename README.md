@@ -1,5 +1,5 @@
 # Pluralsight
-Pluralsight curriculum | Completed courses: 55 | Certificates: 4
+Pluralsight curriculum | Completed courses: 56 | Certificates: 4
 
 ## Front End Development Development
 - Introduction to the Web by Susan Simkins
@@ -16,6 +16,7 @@ Pluralsight curriculum | Completed courses: 55 | Certificates: 4
 - NPM Playbook by Joe Eames
 - Using The Chrome Developer Tools by John Sonmez
 - Troubleshooting Skills by Geoffrey Grosenbach
+- Creating a Custom Jekyll Theme by Gary Simon
 - LinkedIn Strategy: Optimize Your Profile by Jason Alba
 
 ## HTML/HTML5
@@ -82,7 +83,6 @@ Pluralsight curriculum | Completed courses: 55 | Certificates: 4
 
 ## In Progress
 - Introduction to Web Development
-- HTML5 Fundamentals
 - JavaScript Build Automation  With Gulp.js
 - Rapid JavaScript Training
 - Practical Design Patterns in JavaScript
