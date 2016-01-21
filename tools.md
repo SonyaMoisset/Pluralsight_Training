@@ -88,3 +88,9 @@ COMPLETED | 20/01/2016
 - Summary and Experience
 - Skills and Recommendations
 - LinkedIn Profile: Kitchen Sink
+
+## Creating a Custom Jekyll Theme by Gary Simon
+COMPLETED | 21/01/2016
+
+- Introduction and Project Overview
+- Creating a Custom Jekyll Theme
