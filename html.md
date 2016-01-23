@@ -39,3 +39,9 @@ COMPLETED | 20/01/2016
 - Media
 - Canvas
 - Drag and Drop
+
+## Semantic HTML by Susan Simkins
+COMPLETED | 23/01/2016
+
+- Introduction and Project Overview
+- Semantic HTML
