@@ -15,6 +15,7 @@ Pluralsight curriculum | Completed courses: 5 | Certificates: 4
 - Introduction to npm as a Build Tool by Marcus Hammarberg
 - NPM Playbook by Joe Eames
 - Using The Chrome Developer Tools by John Sonmez
+- On Polyglot Programming by Rob Conery and Ted Neward
 - Troubleshooting Skills by Geoffrey Grosenbach
 - Creating a Custom Jekyll Theme by Gary Simon
 - LinkedIn Strategy: Optimize Your Profile by Jason Alba
