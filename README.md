@@ -23,6 +23,7 @@ Pluralsight curriculum | Completed courses: 5 | Certificates: 4
 - HTML Fundamentals by Matt Milner
 - HTML5 Fundamentals by Craig Shoemaker
 - HTML Document Flow by Susan Simkins
+- Semantic HTML by Susan Simkins
 - Get Started With HTML5 Boilerplate by Chris Reynolds
 - The Anatomy of Email Design in HTML by Stephen Sharp
 
