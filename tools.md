@@ -94,3 +94,9 @@ COMPLETED | 21/01/2016
 
 - Introduction and Project Overview
 - Creating a Custom Jekyll Theme
+
+## On Polyglot Programming by Rob Conery and Ted Neward
+COMPLETED | 23/01/2016
+
+- Venturing into the Polyglot World
+- The Past and Future in the Enterprise
