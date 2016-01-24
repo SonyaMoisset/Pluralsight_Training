@@ -1,5 +1,8 @@
 # Pluralsight
-Pluralsight curriculum | Completed courses: 5 | Certificates: 4
+Pluralsight curriculum | Completed courses: 61 | Certificates: 4
+
+## Programming Languages
+- C Programming Language Fundamentals by Kenny Kerr
 
 ## Front End Development Development
 - Introduction to the Web by Susan Simkins
