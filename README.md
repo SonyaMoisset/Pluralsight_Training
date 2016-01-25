@@ -3,6 +3,7 @@ Pluralsight curriculum | Completed courses: 61 | Certificates: 4
 
 ## Programming Languages
 - C Programming Language Fundamentals by Kenny Kerr
+- Go: Getting Started by Mike Van Sickle
 
 ## Front End Development Development
 - Introduction to the Web by Susan Simkins
