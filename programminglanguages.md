@@ -9,3 +9,13 @@ COMPLETED | 24/01/2016
 - Expressions and Statements
 - Pointers and Arrays
 - Functions and Structures
+
+## Go: Getting Started by Mike Van Sickle
+COMPLETED | 25/01/2016
+
+- The Beginning
+- Data Types and Operators
+- Branching and Looping
+- Functions
+- Object-oriented Programming
+- Asynchronous Programming
