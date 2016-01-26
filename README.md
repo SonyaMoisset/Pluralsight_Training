@@ -91,8 +91,10 @@ Pluralsight curriculum | Completed courses: 61 | Certificates: 4
 
 ## In Progress
 - Introduction to Web Development
+- Advanced JavaScript
 - JavaScript Build Automation  With Gulp.js
 - Practical Design Patterns in JavaScript
+- jQuery-free JavaScript
 - Extending Bootstrap with CSS, JavaScript, and jQuery
 - Building a Real-time App with React, Flux, Webpack, and Firebase
 - Building Data-driven React Applications with Relay, GraphQL, and Flux
