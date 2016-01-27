@@ -114,3 +114,11 @@ COMPLETED | 27/01/2016
 - Introduction, Syntax and Tools
 - Writing General Content
 - Writing Code Documentation and Samples
+
+## Git Fundamentals by James Kovacs
+COMPLETED | 27/01/2016
+
+- Introduction to Git
+- Working Locally with Git
+- Working Remotely with Git
+- Branching, Merging, and Rebasing with Git
