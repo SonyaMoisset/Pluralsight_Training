@@ -1,5 +1,5 @@
 # Pluralsight
-Pluralsight curriculum | Completed courses: 64 | Certificates: 4
+Pluralsight curriculum | Completed courses: 65 | Certificates: 4
 
 ## Programming Languages
 - C Programming Language Fundamentals by Kenny Kerr
@@ -13,6 +13,7 @@ Pluralsight curriculum | Completed courses: 64 | Certificates: 4
 ## Tools
 - Sublime Text 3 From Scratch by Jesse Liberty
 - Introduction to Git by Geoffrey Grosenbach
+- Git Fundamentals by James Kovacs
 - Bower Fundamentals by Joe Eames
 - Creating JavaScript Modules with Browserify by Jeff Valore
 - Webpack Fundamentals by Joe Eames
