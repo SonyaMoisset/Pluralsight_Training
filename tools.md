@@ -100,3 +100,10 @@ COMPLETED | 23/01/2016
 
 - Venturing into the Polyglot World
 - The Past and Future in the Enterprise
+
+## Meet the Command Line by Dan Benjamin
+COMPLETED | 27/01/2016
+
+- Meet the Command Line: Part 1
+- Meet the Command Line: Part 2
+- Advanced Command Line
