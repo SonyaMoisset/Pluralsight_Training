@@ -122,3 +122,11 @@ COMPLETED | 27/01/2016
 - Working Locally with Git
 - Working Remotely with Git
 - Branching, Merging, and Rebasing with Git
+
+## Advanced Git by Ben Hoskings
+COMPLETED | 27/01/2016
+
+- Getting Started with Git
+- The Log and the Commit Graph
+- Merging and Maintenance
+- Conclusion
