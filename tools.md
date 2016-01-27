@@ -107,3 +107,10 @@ COMPLETED | 27/01/2016
 - Meet the Command Line: Part 1
 - Meet the Command Line: Part 2
 - Advanced Command Line
+
+## Writing Content With Markdown by Justin Schwartzenberger
+COMPLETED | 27/01/2016
+
+- Introduction, Syntax and Tools
+- Writing General Content
+- Writing Code Documentation and Samples
