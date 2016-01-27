@@ -1,5 +1,5 @@
 # Pluralsight
-Pluralsight curriculum | Completed courses: 61 | Certificates: 4
+Pluralsight curriculum | Completed courses: 63 | Certificates: 4
 
 ## Programming Languages
 - C Programming Language Fundamentals by Kenny Kerr
@@ -18,6 +18,7 @@ Pluralsight curriculum | Completed courses: 61 | Certificates: 4
 - Webpack Fundamentals by Joe Eames
 - Introduction to npm as a Build Tool by Marcus Hammarberg
 - NPM Playbook by Joe Eames
+- Meet the Command Line by Dan Benjamin
 - Using The Chrome Developer Tools by John Sonmez
 - On Polyglot Programming by Rob Conery and Ted Neward
 - Troubleshooting Skills by Geoffrey Grosenbach
