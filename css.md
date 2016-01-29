@@ -40,3 +40,9 @@ COMPLETED | 16/01/2016
 - Flexbox
 - CSS Grid Layout
 - Gotchas, Browser Support, & Resources
+
+## Responsive In-Browser Web Page Design with HTML and CSS by Karen Menezes
+COMPLETED | 29/01/2016
+
+- Introduction and Project Overview
+- Responsive In-Browser Web Page Design with HTML and CSS
