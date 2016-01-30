@@ -91,6 +91,9 @@ Pluralsight curriculum | Completed courses: 66 | Certificates: 4
 - Play by Play: React and Falcor with Brian Holt by Brian Holt and Geoffrey Grosenbach
 - React Fundamentals by Liam McLennan
 
+## Node
+- Play by Play: Building a Node Web API with Sam Artioli and John Papa by John Papa and Sam Artioli
+
 ## Web Application
 - Building a Web Application with Polymer.js and Material Design by Bill Stavroulakis
 
