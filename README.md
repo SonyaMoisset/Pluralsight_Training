@@ -1,5 +1,5 @@
 # Pluralsight
-Pluralsight curriculum | Completed courses: 66 | Certificates: 4
+Pluralsight curriculum | Completed courses: 68 | Certificates: 4
 
 ## Programming Languages
 - C Programming Language Fundamentals by Kenny Kerr
@@ -106,3 +106,5 @@ Pluralsight curriculum | Completed courses: 66 | Certificates: 4
 - Extending Bootstrap with CSS, JavaScript, and jQuery
 - Building a Real-time App with React, Flux, Webpack, and Firebase
 - Building Data-driven React Applications with Relay, GraphQL, and Flux
+- Hands On Responsive Web Design
+- SCMACSS: Scalable Modular Architecture for CSS
