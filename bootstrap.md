@@ -18,3 +18,14 @@ COMPLETED | 26/12/2015
 - Everyday Bootstrap
 - Bootstrap Components
 - Bootstrap and JavaScript
+
+## Bootstrap 3 by Shawn Wildermuth
+COMPLETED | 31/01/2016
+
+- Course Introduction
+- Why Bootstrap 3
+- Getting Started
+- Bootstrap 3 Basics
+- Bootstrap Components
+- Bootstrap Plugins
+- Migrating to Bootstrap 3
