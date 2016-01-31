@@ -49,6 +49,7 @@ Pluralsight curriculum | Completed courses: 68 | Certificates: 4
 - SVG Fundamentals by Brian Treese
 
 ## Bootstrap
+- Bootstrap 3 by Shawn Wildermuth
 - Responsive Websites With Bootstrap 3 by Mark Zamoyta
 - Introduction to Bootstrap by Scott Allen
 
