@@ -22,7 +22,17 @@ COMPLETED | 25/12/2015
 - Planning to Learn and Learning to Plan
 
 ## Introduction to the Web by Susan Simkins
-COMPLETED | 13/01/2015
+COMPLETED | 13/01/2016
 
 - Introduction and Project Overview
 - Introduction to the Web
+
+## Web Accessibility: Getting Started by Brian Treese
+COMPLETED | 02/02/2016
+
+- Introduction
+- Designing for Accessibility
+- Coding for Accessibility
+- ARIA Roles & Attributes
+- Accessibility Guidelines & Standards
+- Accessibility Testing, Tools & Resources
