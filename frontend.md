@@ -36,3 +36,19 @@ COMPLETED | 02/02/2016
 - ARIA Roles & Attributes
 - Accessibility Guidelines & Standards
 - Accessibility Testing, Tools & Resources
+
+## User Experience Tips and Tricks for Developers by Amber Israelsen
+COMPLETED | 03/02/2016
+
+- What Is User Experience and Why Should You Care?
+- Alignment
+- Proximity
+- Consistency/Repetition
+- Contrast
+- Color
+- Typography
+- Visibility
+- Understandability
+- Simplicity
+- Keeping Users Informed
+- Wrapping Up
