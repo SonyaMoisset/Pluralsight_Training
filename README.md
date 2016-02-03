@@ -10,6 +10,7 @@ Pluralsight curriculum | Completed courses: 71 | Certificates: 4
 - Web Accessibility: Getting Started by Brian Treese
 - Learning To Program - Being A Better Programmer by Scott Allen and Iris Classon
 - Front End Web Development: Get Started by Joe Eames
+- User Experience Tips and Tricks for Developers by Amber Israelsen
 
 ## Tools
 - Sublime Text 3 From Scratch by Jesse Liberty
