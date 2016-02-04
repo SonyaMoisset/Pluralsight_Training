@@ -1,5 +1,5 @@
 # Pluralsight
-Pluralsight curriculum | Completed courses: 71 | Certificates: 4
+Pluralsight curriculum | Completed courses: 73 | Certificates: 4
 
 ## Programming Languages
 - C Programming Language Fundamentals by Kenny Kerr
@@ -96,6 +96,7 @@ Pluralsight curriculum | Completed courses: 71 | Certificates: 4
 
 ## Meteor
 - Meteor.js Fundamentals for Single Page Applications by John Sonmez
+- Building a Realtime Web Application with Meteor.js by Rob Conery
 
 ## Node
 - Play by Play: Building a Node Web API with Sam Artioli and John Papa by John Papa and Sam Artioli
