@@ -1,5 +1,5 @@
 # Pluralsight
-Pluralsight curriculum | Completed courses: 73 | Certificates: 4
+Pluralsight curriculum | Completed courses: 74 | Certificates: 4
 
 ## Programming Languages
 - C Programming Language Fundamentals by Kenny Kerr
@@ -103,6 +103,7 @@ Pluralsight curriculum | Completed courses: 73 | Certificates: 4
 
 ## Web Application
 - Building a Web Application with Polymer.js and Material Design by Bill Stavroulakis
+- Introduction to MEAN.JS by Mark Scott
 
 ## In Progress
 - Introduction to Web Development
