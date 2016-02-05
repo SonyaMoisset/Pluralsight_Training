@@ -1,5 +1,5 @@
 # Pluralsight
-Pluralsight curriculum | Completed courses: 75 | Certificates: 4
+Pluralsight curriculum | Completed courses: 76 | Certificates: 4
 
 ## Programming Languages
 - C Programming Language Fundamentals by Kenny Kerr
@@ -7,6 +7,7 @@ Pluralsight curriculum | Completed courses: 75 | Certificates: 4
 
 ## Front End Development Development
 - Introduction to the Web by Susan Simkins
+- Introduction to Web Development by Brian Holt and Nina Zakharenko
 - Web Accessibility: Getting Started by Brian Treese
 - Learning To Program - Being A Better Programmer by Scott Allen and Iris Classon
 - Front End Web Development: Get Started by Joe Eames
@@ -109,7 +110,6 @@ Pluralsight curriculum | Completed courses: 75 | Certificates: 4
 - Understanding Machine Learning by David Chappell
 
 ## In Progress
-- Introduction to Web Development
 - Advanced JavaScript
 - JavaScript Build Automation  With Gulp.js
 - Practical Design Patterns in JavaScript
