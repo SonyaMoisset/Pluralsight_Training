@@ -52,3 +52,15 @@ COMPLETED | 03/02/2016
 - Simplicity
 - Keeping Users Informed
 - Wrapping Up
+
+## Introduction to Web Development by Brian Holt and Nina Zakharenko
+COMPLETED | 06/02/2016
+
+- Introduction
+- HTML
+- CSS
+- JavaScript
+- jQuery
+- AJAX
+- Command Line
+- Node.js
