@@ -119,3 +119,4 @@ Pluralsight curriculum | Completed courses: 76 | Certificates: 4
 - Building Data-driven React Applications with Relay, GraphQL, and Flux
 - Hands On Responsive Web Design
 - SCMACSS: Scalable Modular Architecture for CSS
+- Introduction to Building Website Layouts
