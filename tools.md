@@ -130,3 +130,12 @@ COMPLETED | 27/01/2016
 - The Log and the Commit Graph
 - Merging and Maintenance
 - Conclusion
+
+## Babel: Get Started by Craig McKeachie
+COMPLETED | 10/02/2016
+
+- Course Overview
+- Basics of Using Babel
+- Browser Support
+- Babel in Your Build
+- Babel with Node.js and Unit Tests
