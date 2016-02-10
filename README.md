@@ -21,6 +21,7 @@ Pluralsight curriculum | Completed courses: 76 | Certificates: 4
 - Bower Fundamentals by Joe Eames
 - Creating JavaScript Modules with Browserify by Jeff Valore
 - Webpack Fundamentals by Joe Eames
+- Babel: Get Started by Craig McKeachie
 - Introduction to npm as a Build Tool by Marcus Hammarberg
 - NPM Playbook by Joe Eames
 - Meet the Command Line by Dan Benjamin
