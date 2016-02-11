@@ -1,5 +1,5 @@
 # Pluralsight
-Pluralsight curriculum | Completed courses: 76 | Certificates: 4
+Pluralsight curriculum | Completed courses: 77 | Certificates: 4
 
 ## Programming Languages
 - C Programming Language Fundamentals by Kenny Kerr
@@ -11,6 +11,7 @@ Pluralsight curriculum | Completed courses: 76 | Certificates: 4
 - Web Accessibility: Getting Started by Brian Treese
 - Learning To Program - Being A Better Programmer by Scott Allen and Iris Classon
 - Front End Web Development: Get Started by Joe Eames
+- The Art of A/B Testing for Web Design by Gary Simon
 - User Experience Tips and Tricks for Developers by Amber Israelsen
 
 ## Tools
