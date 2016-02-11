@@ -64,3 +64,9 @@ COMPLETED | 06/02/2016
 - AJAX
 - Command Line
 - Node.js
+
+## The Art of A/B Testing for Web Design by Gary Simon
+COMPLETED | 11/02/2016
+
+- Introduction and Project Overview
+- The Art of A/B Testing for Web Design
