@@ -139,3 +139,12 @@ COMPLETED | 10/02/2016
 - Browser Support
 - Babel in Your Build
 - Babel with Node.js and Unit Tests
+
+## GitHub for Windows Developers by Brendan Enrick
+COMPLETED | 12/02/2016
+
+- Brief Introduction to Git
+- Using the GitHub Website
+- GitHub for Windows Basics
+- Teamwork With GitHub for Windows
+- Social Coding With GitHub
