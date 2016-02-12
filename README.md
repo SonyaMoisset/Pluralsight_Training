@@ -18,6 +18,7 @@ Pluralsight curriculum | Completed courses: 77 | Certificates: 4
 - Sublime Text 3 From Scratch by Jesse Liberty
 - Introduction to Git by Geoffrey Grosenbach
 - Git Fundamentals by James Kovacs
+- GitHub for Windows Developers by Brendan Enrick
 - Advanced Git by Ben Hoskings
 - Bower Fundamentals by Joe Eames
 - Creating JavaScript Modules with Browserify by Jeff Valore
