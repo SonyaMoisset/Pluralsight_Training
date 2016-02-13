@@ -49,6 +49,7 @@ Pluralsight curriculum | Completed courses: 77 | Certificates: 4
 - Modern Web Layout with Flexbox and CSS Grid by Brian Treese
 - Creating Elegant Navigation Using CSS3 Transitions by Susan Simkins
 - Speeding up Your CSS Workflow with Sass and Compass by Gary Simon
+- Haml and Sass by Geoffrey Grosenbach
 - Responsive In-Browser Web Page Design with HTML and CSS by Karen Menezes
 - SMACSS: Scalable Modular Architecture for CSS by Jonathan Snook
 
