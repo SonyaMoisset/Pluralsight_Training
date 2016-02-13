@@ -97,6 +97,7 @@ Pluralsight curriculum | Completed courses: 77 | Certificates: 4
 - React.js: Getting Started by Samer Buna
 - Play by Play: React and Falcor with Brian Holt by Brian Holt and Geoffrey Grosenbach
 - React Fundamentals by Liam McLennan
+- React and Flux for Angular Developers by Tony Alicea
 
 ## Meteor
 - Meteor.js Fundamentals for Single Page Applications by John Sonmez
