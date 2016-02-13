@@ -46,3 +46,11 @@ COMPLETED | 29/01/2016
 
 - Introduction and Project Overview
 - Responsive In-Browser Web Page Design with HTML and CSS
+
+## SMACSS: Scalable Modular Architecture for CSS by Jonathan Snook
+COMPLETED | 13/02/2016
+
+- Categorization
+- Naming Convention
+- Decoupling CSS from HTML
+- State-based Design
