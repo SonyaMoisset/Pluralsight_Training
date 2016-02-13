@@ -50,6 +50,7 @@ Pluralsight curriculum | Completed courses: 77 | Certificates: 4
 - Creating Elegant Navigation Using CSS3 Transitions by Susan Simkins
 - Speeding up Your CSS Workflow with Sass and Compass by Gary Simon
 - Responsive In-Browser Web Page Design with HTML and CSS by Karen Menezes
+- SMACSS: Scalable Modular Architecture for CSS by Jonathan Snook
 
 ## SVG
 - SVG Fundamentals by Brian Treese
@@ -122,5 +123,5 @@ Pluralsight curriculum | Completed courses: 77 | Certificates: 4
 - Building a Real-time App with React, Flux, Webpack, and Firebase
 - Building Data-driven React Applications with Relay, GraphQL, and Flux
 - Hands On Responsive Web Design
-- SCMACSS: Scalable Modular Architecture for CSS
 - Introduction to Building Website Layouts
+- Getting Started with Android Material Design
