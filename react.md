@@ -38,3 +38,12 @@ COMPLETED | 14/01/2016
 - JSX
 - Events
 - Forms
+
+## React and Flux for Angular Developers by Tony Alicea
+COMPLETED | 13/02/2016
+
+- Components and the Virtual DOM vs. Directives and Watchers
+- JSX: Markup in Code vs. Code in Markup
+- Flux: One Way Data Flow vs. Scope and MV*
+- Flux: Stores vs. Services
+- React and Flux in the Real World
