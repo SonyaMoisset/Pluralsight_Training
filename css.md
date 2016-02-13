@@ -54,3 +54,9 @@ COMPLETED | 13/02/2016
 - Naming Convention
 - Decoupling CSS from HTML
 - State-based Design
+
+## Haml and Sass by Geoffrey Grosenbach
+COMPLETED | 13/02/2016
+
+- Haml
+- Sass
