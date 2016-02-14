@@ -16,3 +16,10 @@ COMPLETED | 14/02/2016
 - Running Node Applications on io.js
 - Deploying io.js Applications
 - Summary
+
+## Play by Play: NodeJS with Tim Caswell
+COMPLETED | 14/02/2016
+
+- Introduction
+- The Node App
+- Final Thoughts
