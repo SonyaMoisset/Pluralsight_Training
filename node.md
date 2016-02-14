@@ -8,3 +8,11 @@ COMPLETED | 30/01/2016
 - Adding a Datastore and Increasing the Complexity
 - Adding Async
 - Adding a Cache
+
+## io.js and Node.js Next: Getting Started by Marcus Hammarberg
+COMPLETED | 14/02/2016
+
+- Introduction
+- Running Node Applications on io.js
+- Deploying io.js Applications
+- Summary
