@@ -107,6 +107,7 @@ Pluralsight curriculum | Completed courses: 77 | Certificates: 4
 
 ## Node
 - Play by Play: Building a Node Web API with Sam Artioli and John Papa by John Papa and Sam Artioli
+- io.js and Node.js Next: Getting Started by Marcus Hammarberg
 
 ## Web Application
 - Building a Web Application with Polymer.js and Material Design by Bill Stavroulakis
