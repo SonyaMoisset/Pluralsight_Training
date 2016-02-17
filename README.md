@@ -1,7 +1,8 @@
 # Pluralsight
-Pluralsight curriculum | Completed courses: 77 | Certificates: 4
+Pluralsight curriculum | Completed courses: 84 | Certificates: 4
 
 ## Programming Languages
+- Clean Code: Writing Code for Humans by Cory House
 - C Programming Language Fundamentals by Kenny Kerr
 - Go: Getting Started by Mike Van Sickle
 
