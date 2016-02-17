@@ -19,3 +19,16 @@ COMPLETED | 25/01/2016
 - Functions
 - Object-oriented Programming
 - Asynchronous Programming
+
+## Clean Code: Writing Code for Humans by Cory House
+COMPLETED | 17/02/2016
+
+- Introduction
+- Principles
+- Naming
+- Conditionals
+- Functions
+- Classes
+- Comments
+- Demo
+- Stay Clean
