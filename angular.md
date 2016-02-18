@@ -24,3 +24,14 @@ COMPLETED | 12/01/2016
 - Session 1
 - Session 2
 - Conclusion
+
+## Angular Material Fundamentals by Ajden Towfeek
+COMPLETED | 18/02/2016
+
+- Course Overview
+- Introduction
+- Material Design
+- Setting up the Development Environment
+- Components and Services
+- Forms
+- Wrapping Up
