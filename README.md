@@ -34,6 +34,7 @@ Pluralsight curriculum | Completed courses: 84 | Certificates: 4
 - Troubleshooting Skills by Geoffrey Grosenbach
 - Creating a Custom Jekyll Theme by Gary Simon
 - LinkedIn Strategy: Optimize Your Profile by Jason Alba
+- Kanban Fundamentals by Steve Smith
 
 ## HTML/HTML5
 - HTML Fundamentals by Matt Milner
