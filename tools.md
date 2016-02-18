@@ -148,3 +148,10 @@ COMPLETED | 12/02/2016
 - GitHub for Windows Basics
 - Teamwork With GitHub for Windows
 - Social Coding With GitHub
+
+## Kanban Fundamentals by Steve Smith
+COMPLETED | 18/02/2016
+
+- Kanban Fundamentals : Basic Concepts
+- Kanban Fundamentals : Personal Kanban
+- Kanban Fundamentals : Team Kanban
