@@ -1,5 +1,5 @@
 # Pluralsight
-Pluralsight curriculum | Completed courses: 87 | Certificates: 4
+Pluralsight curriculum | Completed courses: 90 | Certificates: 4
 
 ## Programming Languages
 - Clean Code: Writing Code for Humans by Cory House
@@ -7,6 +7,7 @@ Pluralsight curriculum | Completed courses: 87 | Certificates: 4
 - Go: Getting Started by Mike Van Sickle
 
 ## Front End Development Development
+- Front End Web Development Career Kickstart by Justin Schwartzenberger
 - Introduction to the Web by Susan Simkins
 - Introduction to Web Development by Brian Holt and Nina Zakharenko
 - Web Accessibility: Getting Started by Brian Treese
