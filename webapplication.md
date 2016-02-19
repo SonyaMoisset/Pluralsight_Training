@@ -24,3 +24,13 @@ COMPLETED | 05/02/2016
 - From Scaffold to Application
 - Testing, Deployment, and Tools
 - Wrap Up
+
+## Web Applications Without a Server by Rob Conery
+COMPLETED | 19/02/2016
+
+- Introduction
+- Creating a Static Site with Jekyll
+- Simple Membership with UserApp.io
+- Membership and Storage with Firebase
+- eCommerce with Snipcart
+- Digital Content and Subscriptions with Sendowl
