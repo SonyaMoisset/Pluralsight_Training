@@ -92,6 +92,9 @@ Pluralsight curriculum | Completed courses: 87 | Certificates: 4
 - Leveraging Fluid-width Principles for Responsive Design in jQuery by Saif Ebrahim
 - jQuery UI by Scott Allen
 
+## Knockout
+- Knockout Fundamentals by Steve Michelotti
+
 ## Angular
 - Angular: The Big Picture by Joe Eames
 - Creating a Mobile First Website with AngularJS and Sass by Zulfeekar Cheriyampurath
