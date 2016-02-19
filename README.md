@@ -119,6 +119,7 @@ Pluralsight curriculum | Completed courses: 87 | Certificates: 4
 
 ## Web Application
 - Building a Web Application with Polymer.js and Material Design by Bill Stavroulakis
+- Web Applications Without a Server by Rob Conery
 - Introduction to MEAN.JS by Mark Scott
 
 ## Big Data
