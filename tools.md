@@ -155,3 +155,15 @@ COMPLETED | 18/02/2016
 - Kanban Fundamentals : Basic Concepts
 - Kanban Fundamentals : Personal Kanban
 - Kanban Fundamentals : Team Kanban
+
+## Yeoman Fundamentals by Steve Michelotti
+COMPLETED | 19/02/2016
+
+- Introduction
+- Using Yeoman Generators
+- Creating a Yeoman Generator
+- Working with the File System
+- User Interactions
+- Configuration and Dependencies
+- Building a Sub-generator
+- Testing Generators
