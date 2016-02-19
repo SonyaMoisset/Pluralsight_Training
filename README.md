@@ -1,5 +1,5 @@
 # Pluralsight
-Pluralsight curriculum | Completed courses: 84 | Certificates: 4
+Pluralsight curriculum | Completed courses: 87 | Certificates: 4
 
 ## Programming Languages
 - Clean Code: Writing Code for Humans by Cory House
@@ -23,6 +23,7 @@ Pluralsight curriculum | Completed courses: 84 | Certificates: 4
 - Advanced Git by Ben Hoskings
 - Bower Fundamentals by Joe Eames
 - Creating JavaScript Modules with Browserify by Jeff Valore
+- Yeoman Fundamentals by Steve Michelotti
 - Webpack Fundamentals by Joe Eames
 - Babel: Get Started by Craig McKeachie
 - Introduction to npm as a Build Tool by Marcus Hammarberg
