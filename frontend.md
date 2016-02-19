@@ -70,3 +70,12 @@ COMPLETED | 11/02/2016
 
 - Introduction and Project Overview
 - The Art of A/B Testing for Web Design
+
+## Front End Web Development Career Kickstart by Justin Schwartzenberger
+COMPLETED | 20/02/2016
+
+- The Web Development Industry
+- The Web Landscape for a Developer
+- Front End Development
+- Getting in the Door
+- Growing Your Career
