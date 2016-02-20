@@ -43,3 +43,13 @@ COMPLETED | 20/02/2016
 - First Kendo UI Programs
 - Building an Ordering Form
 - Data Visualization
+
+## Play By Play: Angular Internationalization with John Papa and Brian Clark by John Papa and Brian Clark
+COMPLETED | 20/02/2016
+
+- Course Overview
+- Getting Started
+- Adding Another Language
+- Language Loading Options
+- Error Handling and Debugging
+- Conclusion
