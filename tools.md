@@ -167,3 +167,14 @@ COMPLETED | 19/02/2016
 - Configuration and Dependencies
 - Building a Sub-generator
 - Testing Generators
+
+## Static Websites with Jekyll by Ryan Irelan
+COMPLETED | 20/02/2016
+
+- Introduction
+- What We're Building
+- Installing Jekyll
+- How Jekyll Works
+- Configuring the Site
+- Building the Templates
+- Deploying to Github Pages
