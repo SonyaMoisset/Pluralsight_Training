@@ -124,6 +124,9 @@ Pluralsight curriculum | Completed courses: 90 | Certificates: 4
 - Web Applications Without a Server by Rob Conery
 - Introduction to MEAN.JS by Mark Scott
 
+## API
+- Google Maps API: Get Started by Mark Lewin
+
 ## Big Data
 - Understanding Machine Learning by David Chappell
 
