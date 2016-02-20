@@ -35,6 +35,7 @@ Pluralsight curriculum | Completed courses: 90 | Certificates: 4
 - On Polyglot Programming by Rob Conery and Ted Neward
 - Troubleshooting Skills by Geoffrey Grosenbach
 - Creating a Custom Jekyll Theme by Gary Simon
+- Static Websites with Jekyll by Ryan Irelan
 - LinkedIn Strategy: Optimize Your Profile by Jason Alba
 - Kanban Fundamentals by Steve Smith
 
