@@ -101,6 +101,7 @@ Pluralsight curriculum | Completed courses: 90 | Certificates: 4
 - Angular: The Big Picture by Joe Eames
 - Creating a Mobile First Website with AngularJS and Sass by Zulfeekar Cheriyampurath
 - Play by Play: Learning AngularJS With Ken Cenerelli and John Papa by John Papa and Geoffrey Grosenbach
+- Play By Play: Angular Internationalization with John Papa and Brian Clark by John Papa and Brian Clark
 - Kendo UI and AngularJS from Scratch by Jesse Liberty
 - Angular Material Fundamentals by Ajden Towfeek
 
