@@ -35,3 +35,11 @@ COMPLETED | 18/02/2016
 - Components and Services
 - Forms
 - Wrapping Up
+
+## Kendo UI and AngularJS from Scratch by Jesse Liberty
+COMPLETED | 20/02/2016
+
+- Getting Started
+- First Kendo UI Programs
+- Building an Ordering Form
+- Data Visualization
