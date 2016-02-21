@@ -178,3 +178,13 @@ COMPLETED | 20/02/2016
 - Configuring the Site
 - Building the Templates
 - Deploying to Github Pages
+
+## WebStorm Fundamentals by Shawn Wildermuth
+COMPLETED | 21/02/2016
+
+- Installation and Setup
+- HTML and CSS in WebStorm
+- JavaScript Development With WebStorm
+- AngularJS and WebStorm
+- Node.js and WebStorm
+- Task Runners, Version Control, and Plugins
