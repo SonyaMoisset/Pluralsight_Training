@@ -18,6 +18,7 @@ Pluralsight curriculum | Completed courses: 90 | Certificates: 4
 
 ## Tools
 - Sublime Text 3 From Scratch by Jesse Liberty
+- WebStorm Fundamentals by Shawn Wildermuth
 - Introduction to Git by Geoffrey Grosenbach
 - Git Fundamentals by James Kovacs
 - GitHub for Windows Developers by Brendan Enrick
