@@ -14,6 +14,7 @@ Pluralsight curriculum | Completed courses: 90 | Certificates: 4
 - Learning To Program - Being A Better Programmer by Scott Allen and Iris Classon
 - Front End Web Development: Get Started by Joe Eames
 - The Art of A/B Testing for Web Design by Gary Simon
+- TDD as a Design Tool by Nate Taylor
 - User Experience Tips and Tricks for Developers by Amber Israelsen
 
 ## Tools
