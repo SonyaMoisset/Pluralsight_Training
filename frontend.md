@@ -79,3 +79,11 @@ COMPLETED | 20/02/2016
 - Front End Development
 - Getting in the Door
 - Growing Your Career
+
+## TDD as a Design Tool by Nate Taylor
+COMPLETED | 22/02/2016
+
+- Getting Started
+- TDD on the Server
+- TDD on the Client
+- Testing After
