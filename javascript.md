@@ -147,3 +147,13 @@ COMPLETED | 21/01/2016
 - Event Handlebars
 - Built-in Objects and Functions
 - Miscellaneous JavaScript Topics
+
+## Practical Design Patterns in JavaScript by Jonathan Mills
+COMPLETED | 24/02/2016
+
+- Course Overview
+- What Is a Design Pattern Anyway?
+- Objects in JavaScript
+- Creational Design Patterns
+- Structural Design Patterns
+- Behavioral Design Patterns
