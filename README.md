@@ -1,5 +1,5 @@
 # Pluralsight
-Pluralsight curriculum | Completed courses: 90 | Certificates: 4
+Pluralsight curriculum | Completed courses: 7 | Certificates: 4
 
 ## Programming Languages
 - Clean Code: Writing Code for Humans by Cory House
@@ -73,6 +73,7 @@ Pluralsight curriculum | Completed courses: 90 | Certificates: 4
 
 ## JavaScript
 - Basics of Programming with JavaScript by Kyle Simpson
+- Amazing Things You Can Do With a Web Browser (And a Bit of Code) by Dan Appleman and Tom Bousso
 - Play by Play: HTML, CSS, and JavaScript with Lea Verou
 - JavaScript From Scratch by Jesse Liberty
 - JavaScript Fundamentals by Liam McLennan
@@ -138,7 +139,6 @@ Pluralsight curriculum | Completed courses: 90 | Certificates: 4
 ## In Progress
 - Advanced JavaScript
 - JavaScript Build Automation  With Gulp.js
-- Practical Design Patterns in JavaScript
 - jQuery-free JavaScript
 - Extending Bootstrap with CSS, JavaScript, and jQuery
 - Building a Real-time App with React, Flux, Webpack, and Firebase
