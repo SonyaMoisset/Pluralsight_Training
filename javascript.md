@@ -157,3 +157,11 @@ COMPLETED | 24/02/2016
 - Creational Design Patterns
 - Structural Design Patterns
 - Behavioral Design Patterns
+
+## Amazing Things You Can Do With a Web Browser (And a Bit of Code) by Dan Appleman and Tom Bousso
+COMPLETED | 24/02/2016
+
+- Getting Started
+- The World's Smartest Web Page
+- Software Piracy
+- Script Injection
