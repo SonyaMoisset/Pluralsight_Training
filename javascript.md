@@ -159,7 +159,7 @@ COMPLETED | 24/02/2016
 - Behavioral Design Patterns
 
 ## Amazing Things You Can Do With a Web Browser (And a Bit of Code) by Dan Appleman and Tom Bousso
-COMPLETED | 24/02/2016
+COMPLETED | 25/02/2016
 
 - Getting Started
 - The World's Smartest Web Page
