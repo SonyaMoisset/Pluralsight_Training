@@ -157,3 +157,11 @@ COMPLETED | 21/02/2016
 - AngularJS and WebStorm
 - Node.js and WebStorm
 - Task Runners, Version Control, and Plugins
+
+## Resumes, Job Seeking, and Interviews in Context by Robbe Morris
+COMPLETED | 27/02/2016
+
+- Getting Started
+- The Hiring Process
+- The Resume
+- The Interview
