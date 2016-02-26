@@ -1,5 +1,5 @@
 # Pluralsight
-Pluralsight curriculum | Completed courses: 7 | Certificates: 4
+Pluralsight curriculum | Completed courses: 99 | Certificates: 4
 
 ## Programming Languages
 - Clean Code: Writing Code for Humans by Cory House
@@ -20,10 +20,6 @@ Pluralsight curriculum | Completed courses: 7 | Certificates: 4
 ## Tools
 - Sublime Text 3 From Scratch by Jesse Liberty
 - WebStorm Fundamentals by Shawn Wildermuth
-- Introduction to Git by Geoffrey Grosenbach
-- Git Fundamentals by James Kovacs
-- GitHub for Windows Developers by Brendan Enrick
-- Advanced Git by Ben Hoskings
 - Bower Fundamentals by Joe Eames
 - Creating JavaScript Modules with Browserify by Jeff Valore
 - Yeoman Fundamentals by Steve Michelotti
@@ -40,6 +36,13 @@ Pluralsight curriculum | Completed courses: 7 | Certificates: 4
 - Static Websites with Jekyll by Ryan Irelan
 - LinkedIn Strategy: Optimize Your Profile by Jason Alba
 - Kanban Fundamentals by Steve Smith
+
+## Git
+- Introduction to Git by Geoffrey Grosenbach
+- Git Fundamentals by James Kovacs
+- GitHub for Windows Developers by Brendan Enrick
+- Advanced Git by Ben Hoskings
+- Using GitFlow by Kevin Jones
 
 ## HTML/HTML5
 - HTML Fundamentals by Matt Milner
