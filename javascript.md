@@ -165,3 +165,11 @@ COMPLETED | 25/02/2016
 - The World's Smartest Web Page
 - Software Piracy
 - Script Injection
+
+## Using ES6 with TypeScript by Steve Ognibene
+COMPLETED | 26/02/2016
+
+- Course Overview
+- New ES6 Syntax
+- ES6 Modules
+- ES6 Classes
