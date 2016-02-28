@@ -173,3 +173,25 @@ COMPLETED | 26/02/2016
 - New ES6 Syntax
 - ES6 Modules
 - ES6 Classes
+
+## JavaScript Build Automation With Gulp.js by John Papa
+COMPLETED | 28/02/2016
+
+- Course Introduction
+- The Value of Gulp as a JavaScript Task Runner
+- 4 Things You Need to Know About Gulp
+- Getting Started With Gulp
+- Code Analysis With JSHint and JSCS
+- CSS Compilation
+- HTML Injection
+- Serving Your Dev Build
+- Keeping Your Browser in Sync
+- Building Assets and Keeping Organized
+- Caching HTML Templates for Angular
+- Creating a Production Build Pipeline
+- Minifying and Filtering
+- Angular Dependency Injections
+- Static Asset Revisions and Version Bumping
+- Testing
+- Integration Testing and HTML Test Runners
+- Migrating to Gulp 4
