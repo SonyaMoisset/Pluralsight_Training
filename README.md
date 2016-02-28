@@ -94,6 +94,7 @@ Pluralsight curriculum | Completed courses: 99 | Certificates: 4
 - Fixing Common JavaScript Bugs by Elijah Manor
 - Rapid JavaScript Training by Mark Zamoyta
 - JavaScript: Advanced Fundamentals to jQuery & Pure DOM Scripting by Justin Meyer and Alexis Abril
+- JavaScript Build Automation With Gulp.js by John Papa
 - Using ES6 with TypeScript by Steve Ognibene
 
 ## jQuery
