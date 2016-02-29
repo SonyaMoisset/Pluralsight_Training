@@ -165,3 +165,11 @@ COMPLETED | 27/02/2016
 - The Hiring Process
 - The Resume
 - The Interview
+
+## Introduction to Grunt by Derik Whittaker
+COMPLETED | 01/03/2016
+
+- Getting Started With Grunt
+- Working With JavaScript
+- Working With HTML and CSS in Grunt
+- Advanced Grunt - Custom Tasks and Plugins
