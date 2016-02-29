@@ -20,6 +20,7 @@ Pluralsight curriculum | Completed courses: 104 | Certificates: 4
 ## Tools
 - Sublime Text 3 From Scratch by Jesse Liberty
 - WebStorm Fundamentals by Shawn Wildermuth
+- Introduction to Grunt by Derik Whittaker
 - Bower Fundamentals by Joe Eames
 - Creating JavaScript Modules with Browserify by Jeff Valore
 - Yeoman Fundamentals by Steve Michelotti
