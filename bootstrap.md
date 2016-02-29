@@ -29,3 +29,14 @@ COMPLETED | 31/01/2016
 - Bootstrap Components
 - Bootstrap Plugins
 - Migrating to Bootstrap 3
+
+## Extending Bootstrap with CSS, JavaScript, and jQuery by Paul D. Sheriff
+COMPLETED | 29/02/2016
+
+- Course Introduction
+- Create Left (Sidebar) Navigation
+- Build Custom Dashboard Widgets
+- Extending Check Boxes and Radio Buttons
+- Custom Product Selectors
+- Customizable Bootstrap Accordions
+- Let Your User Know Something Is Happening
