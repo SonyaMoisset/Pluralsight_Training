@@ -1,5 +1,5 @@
 # Pluralsight
-Pluralsight curriculum | Completed courses: 99 | Certificates: 4
+Pluralsight curriculum | Completed courses: 104 | Certificates: 4
 
 ## Programming Languages
 - Clean Code: Writing Code for Humans by Cory House
@@ -71,6 +71,7 @@ Pluralsight curriculum | Completed courses: 99 | Certificates: 4
 - Bootstrap 3 by Shawn Wildermuth
 - Responsive Websites With Bootstrap 3 by Mark Zamoyta
 - Introduction to Bootstrap by Scott Allen
+- Extending Bootstrap with CSS, JavaScript, and jQueryby Paul D. Sheriff
 
 ## Foundation
 - Hands On Foundation 5 by Paul Cheney
@@ -144,9 +145,7 @@ Pluralsight curriculum | Completed courses: 99 | Certificates: 4
 
 ## In Progress
 - Advanced JavaScript
-- JavaScript Build Automation  With Gulp.js
 - jQuery-free JavaScript
-- Extending Bootstrap with CSS, JavaScript, and jQuery
 - Building a Real-time App with React, Flux, Webpack, and Firebase
 - Building Data-driven React Applications with Relay, GraphQL, and Flux
 - Hands On Responsive Web Design
