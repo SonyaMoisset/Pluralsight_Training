@@ -53,3 +53,11 @@ COMPLETED | 20/02/2016
 - Language Loading Options
 - Error Handling and Debugging
 - Conclusion
+
+## Testing AngularJS From Scratch by Jesse Liberty
+COMPLETED | 01/03/2016
+
+- Introduction
+- Getting Started
+- BDD and AngularJS
+- Spy vs. Spy
