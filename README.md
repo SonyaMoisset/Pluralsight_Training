@@ -115,6 +115,7 @@ Pluralsight curriculum | Completed courses: 104 | Certificates: 4
 - Play by Play: Learning AngularJS With Ken Cenerelli and John Papa by John Papa and Geoffrey Grosenbach
 - Play By Play: Angular Internationalization with John Papa and Brian Clark by John Papa and Brian Clark
 - Kendo UI and AngularJS from Scratch by Jesse Liberty
+- Testing AngularJS From Scratch by Jesse Liberty
 - Angular Material Fundamentals by Ajden Towfeek
 
 ## React
