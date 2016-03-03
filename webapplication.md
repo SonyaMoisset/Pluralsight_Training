@@ -34,3 +34,17 @@ COMPLETED | 19/02/2016
 - Membership and Storage with Firebase
 - eCommerce with Snipcart
 - Digital Content and Subscriptions with Sendowl
+
+## Electron Playbook by Rob Conery
+COMPLETED | 03/03/2016
+
+- Introduction
+- Layout and Fonts
+- Creating a Basic, Custom Layout
+- Mac Layouts with Photon
+- Handlebars View Engine
+- Jade View Engine
+- Using Markdown
+- Full Text Search
+- Saving Files
+- Handling External Links
