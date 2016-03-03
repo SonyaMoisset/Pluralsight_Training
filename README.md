@@ -135,8 +135,10 @@ Pluralsight curriculum | Completed courses: 104 | Certificates: 4
 - io.js and Node.js Next: Getting Started by Marcus Hammarberg
 
 ## Web Application
+- HTTP Fundamentals by Scott Allen
 - Building a Web Application with Polymer.js and Material Design by Bill Stavroulakis
 - Web Applications Without a Server by Rob Conery
+- Electron Playbook by Rob Conery
 - Introduction to MEAN.JS by Mark Scott
 
 ## API
