@@ -195,3 +195,11 @@ COMPLETED | 28/02/2016
 - Testing
 - Integration Testing and HTML Test Runners
 - Migrating to Gulp 4
+
+## TypeScript Fundamentals by Dan Wahlin and John Papa
+COMPLETED | 07/03/2016
+
+- Getting Started with TypeScript
+- Typing, Variables and Functions
+- Classes and Interfaces
+- Modules
