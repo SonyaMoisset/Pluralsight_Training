@@ -98,6 +98,7 @@ Pluralsight curriculum | Completed courses: 104 | Certificates: 4
 - JavaScript: Advanced Fundamentals to jQuery & Pure DOM Scripting by Justin Meyer and Alexis Abril
 - Modern, Modular JavaScript with SystemJS and jspm by Wes Higbee
 - JavaScript Build Automation With Gulp.js by John Papa
+- RequireJS: JavaScript Dependency Injection and Module Loading by Jeff Valore
 - TypeScript Fundamentals by Dan Wahlin and John Papa
 - Using ES6 with TypeScript by Steve Ognibene
 
