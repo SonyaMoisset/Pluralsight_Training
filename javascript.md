@@ -203,3 +203,15 @@ COMPLETED | 07/03/2016
 - Typing, Variables and Functions
 - Classes and Interfaces
 - Modules
+
+## Modern, M/odular JavaScript with SystemJS and jspm by Wes Higbee
+COMPLETED | 08/03/2016
+- A Modernized, Modularized Approach to JavaScript
+- ES6 Module Loader Polyfill
+- SystemJS
+- Testing
+- jspm
+- Development vs. Production Workflows
+- SystemJS Plugins
+- Publishing Packages
+- Putting It All Together
