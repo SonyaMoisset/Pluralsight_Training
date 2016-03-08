@@ -204,8 +204,9 @@ COMPLETED | 07/03/2016
 - Classes and Interfaces
 - Modules
 
-## Modern, M/odular JavaScript with SystemJS and jspm by Wes Higbee
+## Modern, Modular JavaScript with SystemJS and jspm by Wes Higbee
 COMPLETED | 08/03/2016
+
 - A Modernized, Modularized Approach to JavaScript
 - ES6 Module Loader Polyfill
 - SystemJS
@@ -215,3 +216,14 @@ COMPLETED | 08/03/2016
 - SystemJS Plugins
 - Publishing Packages
 - Putting It All Together
+
+## RequireJS: JavaScript Dependency Injection and Module Loading by Jeff Valore
+COMPLETED | 08/03/2016
+
+- Getting Started
+- Defining and REquiring Modules
+- Loading Remote Modules
+- Optimization
+- Configuration Options
+- Plugins
+- Unit Testing RequireJS Modules
