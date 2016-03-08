@@ -23,3 +23,13 @@ COMPLETED | 14/02/2016
 - Introduction
 - The Node App
 - Final Thoughts
+
+## Introduction to Koa Javascript by Marcus Hammarberg
+COMPLETED | 08/03/2016
+
+- Getting Started
+- Understanding Yield and Generators
+- Koa Concepts - The Moving Parts
+- Building an HTTP API With Koa
+- Building a Complete Web Site With Koa
+- Summary
