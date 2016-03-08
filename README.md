@@ -135,6 +135,7 @@ Pluralsight curriculum | Completed courses: 104 | Certificates: 4
 ## Node
 - Play by Play: NodeJS with Tim Caswell
 - Play by Play: Building a Node Web API with Sam Artioli and John Papa by John Papa and Sam Artioli
+- Introduction to Koa Javascript by Marcus Hammarberg
 - io.js and Node.js Next: Getting Started by Marcus Hammarberg
 
 ## Web Application
