@@ -1,5 +1,5 @@
 # Pluralsight
-Pluralsight curriculum | Completed courses: 104 | Certificates: 4
+Pluralsight curriculum | Completed courses: 113 | Certificates: 4
 
 ## Programming Languages
 - Clean Code: Writing Code for Humans by Cory House
@@ -63,6 +63,7 @@ Pluralsight curriculum | Completed courses: 104 | Certificates: 4
 - Speeding up Your CSS Workflow with Sass and Compass by Gary Simon
 - Haml and Sass by Geoffrey Grosenbach
 - Responsive In-Browser Web Page Design with HTML and CSS by Karen Menezes
+- A Better CSS: LESS and SASS by Shawn Wildermuth
 - SMACSS: Scalable Modular Architecture for CSS by Jonathan Snook
 
 ## SVG
