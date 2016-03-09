@@ -35,6 +35,16 @@ COMPLETED | 19/02/2016
 - eCommerce with Snipcart
 - Digital Content and Subscriptions with Sendowl
 
+## HTTP Fundamentals by Scott Allen
+COMPLETED | 03/03/2016
+
+- HTTP Resources
+- HTTP Messages
+- HTTP Connections
+- HTTP Architecture
+- HTTP Security
+
+
 ## Electron Playbook by Rob Conery
 COMPLETED | 03/03/2016
 
