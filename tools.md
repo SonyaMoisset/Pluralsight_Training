@@ -173,3 +173,11 @@ COMPLETED | 01/03/2016
 - Working With JavaScript
 - Working With HTML and CSS in Grunt
 - Advanced Grunt - Custom Tasks and Plugins
+
+## Regular Expressions Fundamentals by Juliette Reinders Folmer
+COMPLETED | 10/03/2016
+
+- Regular Expressions Fundamentals
+- Building Your First Regex
+- Syntax in Detail
+- Shortcodes, Modifiers, and Delimiters
