@@ -38,6 +38,7 @@ Pluralsight curriculum | Completed courses: 113 | Certificates: 4
 - Resumes, Job Seeking, and Interviews in Context by Robbe Morris
 - LinkedIn Strategy: Optimize Your Profile by Jason Alba
 - Kanban Fundamentals by Steve Smith
+- Regular Expressions Fundamentals by Juliette Reinders Folmer
 
 ## Git
 - Introduction to Git by Geoffrey Grosenbach
