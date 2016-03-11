@@ -39,3 +39,12 @@ COMPLETED | 26/02/2016
 - Creating a Release Branch
 - Creating Hotfix
 - Creating a Build
+
+
+## How Git Works by Paolo Perrotta
+COMPLETED | 11/03/2016
+
+- Git Is Not What You Think
+- Branches Demystified
+- Rebasing Made Simple
+- Distributed Version Control
