@@ -42,6 +42,7 @@ Pluralsight curriculum | Completed courses: 113 | Certificates: 4
 
 ## Git
 - Introduction to Git by Geoffrey Grosenbach
+- How Git Works by Paolo Perrotta
 - Git Fundamentals by James Kovacs
 - GitHub for Windows Developers by Brendan Enrick
 - Advanced Git by Ben Hoskings
