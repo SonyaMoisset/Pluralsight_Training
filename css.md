@@ -67,3 +67,17 @@ COMPLETED | 08/03/2016
 - Why CSS is Painful
 - LESS is More
 - Using SASS
+
+## Hands on Responsive Design Using a CSS Preprocessor by Paul Cheney
+COMPLETED | 15/03/2016
+
+- Course Overview
+- CSS Preprocessor Overview
+- Introduction to SASS
+- Setting up a New SASS Project
+- Building the Site Header
+- Building the Main Rows and Columns
+- Building the Tabbed Navigation
+- Style Lists with Custom Bullets
+- Build Newspaper Style Columns
+- Using a for Loop for a 12 Column Grid
