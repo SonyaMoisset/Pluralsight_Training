@@ -148,6 +148,7 @@ Pluralsight curriculum | Completed courses: 113 | Certificates: 4
 - Web Applications Without a Server by Rob Conery
 - Electron Playbook by Rob Conery
 - Introduction to MEAN.JS by Mark Scott
+- Building a Real-time App with React, Flux, Webpack, and Firebase by Hendrik Swanepoel
 - Building Data-driven React Applications with Relay, GraphQL, and Flux by Samer Buna
 
 ## API
