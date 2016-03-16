@@ -67,3 +67,13 @@ COMPLETED | 13/03/2016
 - Working with Data
 - GraphQL: Getting Started
 - Relay: Getting Started
+
+## Building a Real-time App with React, Flux, Webpack, and Firebase by Hendrik Swanepoel
+COMPLETED | 16/03/2016
+
+- Introduction
+- Environment and Tools
+- Styling with Material-UI
+- Using Firebase
+- Flux Architecture with Alt
+- Routing in a Flux App with React Router
