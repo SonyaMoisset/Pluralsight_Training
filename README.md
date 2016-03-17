@@ -4,6 +4,7 @@ Pluralsight curriculum | Completed courses: 113 | Certificates: 4
 ## Programming Languages
 - Clean Code: Writing Code for Humans by Cory House
 - C Programming Language Fundamentals by Kenny Kerr
+- Play by Play: C# Q&A with Scott Allen and Jon Skeet by Scott Allen, Jon Skeet, and Rob Conery
 - Go: Getting Started by Mike Van Sickle
 
 ## Front End Development Development
