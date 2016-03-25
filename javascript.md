@@ -227,3 +227,12 @@ COMPLETED | 08/03/2016
 - Configuration Options
 - Plugins
 - Unit Testing RequireJS Modules
+
+## Introduction to JavaScript & jQuery by Karl Swedberg
+COMPLETED | 25/03/2016
+
+- jQuery & History of DOM Scripting
+- Developer Tools
+- Bare-bones JavaScript
+- jQuery Selectors and Traversal
+- Q&A
