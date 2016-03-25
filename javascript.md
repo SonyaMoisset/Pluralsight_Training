@@ -236,3 +236,11 @@ COMPLETED | 25/03/2016
 - Bare-bones JavaScript
 - jQuery Selectors and Traversal
 - Q&A
+
+## JavaScript for C# Developers by Shawn Wildermuth
+COMPLETED | 25/03/2016
+
+- JavaScript Basics
+- JavaScript Functions
+- Object-Oriented JavaScript
+- Practical Application
