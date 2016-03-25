@@ -95,7 +95,9 @@ Pluralsight curriculum | Completed courses: 119 | Certificates: 4
 - Quick Start to JavaScript: Volume 1 by Susan Simkins
 - Quick Start to JavaScript: Volume 2 by Susan Simkins
 - Quick Start to JavaScript: Volume 3 by Susan Simkins
+- Introduction to JavaScript & jQuery by Karl Swedberg
 - Structuring JavaScript Code by Dan Wahlin
+- JavaScript for C# Developers by Shawn Wildermuth
 - JavaScript Design Patterns by Aaron Powell
 - Practical Design Patterns in JavaScript by Jonathan Mills
 - Fixing Common JavaScript Bugs by Elijah Manor
