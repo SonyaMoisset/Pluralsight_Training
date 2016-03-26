@@ -244,3 +244,12 @@ COMPLETED | 25/03/2016
 - JavaScript Functions
 - Object-Oriented JavaScript
 - Practical Application
+
+## Large Scale JavaScript on Client and Server by Shawn Wildermuth
+COMPLETED | 26/03/2016
+
+- What is Large Scale JavaScript
+- Maintainable JavaScript
+- Scalable JavaScript
+- Testable JavaScript
+- Large Scale JavaScript in NodeJS
