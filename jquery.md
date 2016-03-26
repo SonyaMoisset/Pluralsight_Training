@@ -42,3 +42,16 @@ COMPLETED | 21/01/2016
 
 - Introduction and Project Overview
 - Leveraging Fluid-width Principles for Responsive Design in jQuery
+
+
+## jQuery-free JavaScript by Elijah Manor
+COMPLETED | 26/03/2016
+
+- When to Use jQuery?
+- Native Selectors
+- Native DOM Manipulation
+- Native Events
+- Native Ajax
+- Native Utilities
+- Native Animation
+- Native Plugins
