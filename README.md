@@ -115,6 +115,7 @@ Pluralsight curriculum | Completed courses: 119 | Certificates: 4
 - jQuery Fundamentals by Dan Wahlin
 - jQuery Template Fundamentals by Matt Milner
 - Leveraging Fluid-width Principles for Responsive Design in jQuery by Saif Ebrahim
+- jQuery-free JavaScript by Elijah Manor
 - jQuery UI by Scott Allen
 
 ## Knockout
