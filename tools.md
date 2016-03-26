@@ -181,3 +181,8 @@ COMPLETED | 10/03/2016
 - Building Your First Regex
 - Syntax in Detail
 - Shortcodes, Modifiers, and Delimiters
+
+## Code Testability by Misko Hevery
+COMPLETED | 26/03/2016
+
+- The Psychology of Testing
