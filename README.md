@@ -40,6 +40,7 @@ Pluralsight curriculum | Completed courses: 119 | Certificates: 4
 - LinkedIn Strategy: Optimize Your Profile by Jason Alba
 - Kanban Fundamentals by Steve Smith
 - Regular Expressions Fundamentals by Juliette Reinders Folmer
+- Code Testability by Misko Hevery
 
 ## Git
 - Introduction to Git by Geoffrey Grosenbach
