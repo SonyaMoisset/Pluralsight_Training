@@ -17,6 +17,7 @@ Pluralsight curriculum | Completed courses: 119 | Certificates: 4
 - Front End Web Development: Get Started by Joe Eames
 - The Art of A/B Testing for Web Design by Gary Simon
 - TDD as a Design Tool by Nate Taylor
+- UI Architecture by Garann Means
 - User Experience Tips and Tricks for Developers by Amber Israelsen
 
 ## Tools
