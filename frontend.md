@@ -87,3 +87,15 @@ COMPLETED | 22/02/2016
 - TDD on the Server
 - TDD on the Client
 - Testing After
+
+## Learning To Program - Part 1: Getting Started by Scott Allen
+COMPLETED | 27/03/2016
+
+- Learning To Program - An Introduction
+- Learning To Program - Editors and Code Files
+- Learning To Program - Variables and Types
+- Learning To Program - Functions
+- Learning To Program - Branch And Loop
+- Learning To Program - Objects
+- Learning To Program - Tests
+- Learning To Program - Final
