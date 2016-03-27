@@ -13,6 +13,7 @@ Pluralsight curriculum | Completed courses: 119 | Certificates: 4
 - Introduction to Web Development by Brian Holt and Nina Zakharenko
 - Web Accessibility: Getting Started by Brian Treese
 - Learning To Program - Being A Better Programmer by Scott Allen and Iris Classon
+- Learning To Program - Part 1: Getting Started by Scott Allen
 - Front End Web Development: Get Started by Joe Eames
 - The Art of A/B Testing for Web Design by Gary Simon
 - TDD as a Design Tool by Nate Taylor
