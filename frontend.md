@@ -99,3 +99,11 @@ COMPLETED | 27/03/2016
 - Learning To Program - Objects
 - Learning To Program - Tests
 - Learning To Program - Final
+
+## UI Architecture by Garann Means
+COMPLETED | 27/03/2016
+
+- JavaScript Architecture
+- Abstractions and Frameworks
+- Outside Tools
+- Outside Tools, continued 
