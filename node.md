@@ -33,3 +33,14 @@ COMPLETED | 08/03/2016
 - Building an HTTP API With Koa
 - Building a Complete Web Site With Koa
 - Summary
+
+## Introduction to Node.js by Paul O'Fallon
+COMPLETED | 31/03/2016
+
+- Getting Started with Node.js
+- Modules, require() and NPM
+- Events and Streams
+- Accessing the Local System
+- Interacting with the Web
+- Testing and Debugging
+- Scaling Your Node Application
