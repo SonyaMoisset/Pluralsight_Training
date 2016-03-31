@@ -145,6 +145,7 @@ Pluralsight curriculum | Completed courses: 119 | Certificates: 4
 - Building a Realtime Web Application with Meteor.js by Rob Conery
 
 ## Node
+- Introduction to Node.js by Paul O'Fallon
 - Play by Play: NodeJS with Tim Caswell
 - Play by Play: Building a Node Web API with Sam Artioli and John Papa by John Papa and Sam Artioli
 - Introduction to Koa Javascript by Marcus Hammarberg
