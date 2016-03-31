@@ -146,6 +146,7 @@ Pluralsight curriculum | Completed courses: 119 | Certificates: 4
 
 ## Node
 - Introduction to Node.js by Paul O'Fallon
+- Meet Node.js by Geoffrey Grosenbach
 - Play by Play: NodeJS with Tim Caswell
 - Play by Play: Building a Node Web API with Sam Artioli and John Papa by John Papa and Sam Artioli
 - Introduction to Koa Javascript by Marcus Hammarberg
