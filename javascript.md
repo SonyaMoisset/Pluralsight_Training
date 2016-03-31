@@ -253,3 +253,11 @@ COMPLETED | 26/03/2016
 - Scalable JavaScript
 - Testable JavaScript
 - Large Scale JavaScript in NodeJS
+
+## Meet CoffeeScript by Geoffrey Grosenbach
+COMPLETED | 31/03/2016
+
+- Introduction
+- Unit Test
+- App
+- Conclusion
