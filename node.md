@@ -44,3 +44,11 @@ COMPLETED | 31/03/2016
 - Interacting with the Web
 - Testing and Debugging
 - Scaling Your Node Application
+
+## Meet Node.js by Geoffrey Grosenbach
+COMPLETED | 31/03/2016
+
+- Introduction
+- Installation and the Basics
+- Using Node.js
+- Conclusion
