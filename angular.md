@@ -61,3 +61,13 @@ COMPLETED | 01/03/2016
 - Getting Started
 - BDD and AngularJS
 - Spy vs. Spy
+
+## Play by Play: Angular with Typescript with John Papa and Christopher Martin by John Papa and Christopher Marti
+COMPLETED | 03/04/2016
+
+- Introduction
+- Configuring the Environment and Transpiling to TypeScript
+- Watcher - Transpilling from Gulp
+- Converting ES5 Angular to TypeScript - Model, Config, and Controllers
+- Converting ES5 Angular to TypeScript - Directives
+- Conclusion
