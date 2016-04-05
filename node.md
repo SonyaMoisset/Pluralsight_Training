@@ -61,3 +61,12 @@ COMPLETED | 05/04/2016
 - Model
 - Admin
 - Wrap Up
+
+## Node Application Patterns by Rob Conery
+COMPLETED | 05/04/2016
+
+- Introduction
+- Setting Up Your Project
+- Building a Registration Module
+- Building an Authentication Module at Full Speed
+- Integrating Our Module into a Web App
