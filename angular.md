@@ -71,3 +71,15 @@ COMPLETED | 03/04/2016
 - Converting ES5 Angular to TypeScript - Model, Config, and Controllers
 - Converting ES5 Angular to TypeScript - Directives
 - Conclusion
+
+## Angular 2: First Look by John Papa
+COMPLETED | 05/04/2016
+
+- Course Overview
+- Angular 2 in Action
+- Angular 2 Architecture, What's New and What's Different
+- Angular 2 Essentials: Modules, Components, Templates, and Metadata
+- Displaying Data: Data Binding, Directives, and Pipes
+- Services, Dependency Injection, and Component Lifecycle Hooks
+- Data with Http
+- Routing
