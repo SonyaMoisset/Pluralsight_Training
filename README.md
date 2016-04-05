@@ -135,6 +135,7 @@ Pluralsight curriculum | Completed courses: 119 | Certificates: 4
 - Testing AngularJS From Scratch by Jesse Liberty
 - Angular Material Fundamentals by Ajden Towfeek
 - Angular 2: First Look by John Papa
+- Angular 2: Getting Started by Deborah Kurata
 
 ## React
 - Styling React Components by Jake Trent
