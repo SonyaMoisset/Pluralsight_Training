@@ -83,3 +83,20 @@ COMPLETED | 05/04/2016
 - Services, Dependency Injection, and Component Lifecycle Hooks
 - Data with Http
 - Routing
+
+## Angular 2: Getting Started by Deborah Kurata
+COMPLETED | 05/04/2016
+
+- Course Overview
+- Introduction
+- First Things First
+- Introduction to Components
+- Templates, Interpolation, and Directives
+- Data Binding & Pipes
+- More on Components
+- Building Nested Components
+- Services and Dependency Injection
+- Retrieving Data Using HTTP
+- Navigation and Routing
+- Angular 2 Setup Revisited
+- Final Words
