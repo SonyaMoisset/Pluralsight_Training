@@ -52,3 +52,12 @@ COMPLETED | 31/03/2016
 - Installation and the Basics
 - Using Node.js
 - Conclusion
+
+## Full Stack Node.js by Geoffrey Grosenbach
+COMPLETED | 05/04/2016
+
+- Getting Started
+- Testing
+- Model
+- Admin
+- Wrap Up
