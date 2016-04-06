@@ -1,5 +1,5 @@
 # Pluralsight
-Pluralsight curriculum | Completed courses: 119 | Certificates: 4
+Pluralsight curriculum | Completed courses: 135 | Certificates: 4
 
 ## Programming Languages
 - Clean Code: Writing Code for Humans by Cory House
@@ -109,6 +109,7 @@ Pluralsight curriculum | Completed courses: 119 | Certificates: 4
 - Large Scale JavaScript on Client and Server by Shawn Wildermuth
 - Modern, Modular JavaScript with SystemJS and jspm by Wes Higbee
 - JavaScript Build Automation With Gulp.js by John Papa
+- JavaScript Best Practices by Jonathan Mills
 - RequireJS: JavaScript Dependency Injection and Module Loading by Jeff Valore
 - TypeScript Fundamentals by Dan Wahlin and John Papa
 - Using ES6 with TypeScript by Steve Ognibene
