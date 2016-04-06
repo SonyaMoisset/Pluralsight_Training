@@ -261,3 +261,13 @@ COMPLETED | 31/03/2016
 - Unit Test
 - App
 - Conclusion
+
+## JavaScript Best Practices by Jonathan Mills
+COMPLETED | 06/04/2016
+
+- Course Overview
+- Why Best Practices?
+- Syntax
+- Behaviors
+- Async Patterns
+- Production Code
