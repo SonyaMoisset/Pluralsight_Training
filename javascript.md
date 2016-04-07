@@ -271,3 +271,17 @@ COMPLETED | 06/04/2016
 - Behaviors
 - Async Patterns
 - Production Code
+
+## TypeScript In-depth by Brice Wilson
+COMPLETED | 07/04/2016
+
+- Introduction
+- Installation and Setup
+- TypeScript Basics
+- Functions
+- Interfaces
+- Classes
+- Modules and Namespaces
+- Generics
+- Compiler Options and Project Configuration
+- Type Definitions
