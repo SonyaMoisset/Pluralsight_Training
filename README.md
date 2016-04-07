@@ -112,6 +112,7 @@ Pluralsight curriculum | Completed courses: 135 | Certificates: 4
 - JavaScript Best Practices by Jonathan Mills
 - RequireJS: JavaScript Dependency Injection and Module Loading by Jeff Valore
 - TypeScript Fundamentals by Dan Wahlin and John Papa
+- TypeScript In-depth by Brice Wilson
 - Using ES6 with TypeScript by Steve Ognibene
 - Meet CoffeeScript by Geoffrey Grosenbach
 
