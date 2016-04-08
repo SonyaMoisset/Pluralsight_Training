@@ -186,3 +186,11 @@ COMPLETED | 10/03/2016
 COMPLETED | 26/03/2016
 
 - The Psychology of Testing
+
+## Pair Programming by Brendan Enrick and Steve Smith
+COMPLETED | 08/04/2016
+
+- Introduction to Pair Programming
+- Beginning Pairing Techniques
+- Pairing Beyond the Basics
+- Organizational Considerations
