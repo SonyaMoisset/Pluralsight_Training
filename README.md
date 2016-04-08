@@ -43,6 +43,7 @@ Pluralsight curriculum | Completed courses: 135 | Certificates: 4
 - Kanban Fundamentals by Steve Smith
 - Regular Expressions Fundamentals by Juliette Reinders Folmer
 - Code Testability by Misko Hevery
+- Pair Programming by Brendan Enrick and Steve Smith
 
 ## Git
 - Introduction to Git by Geoffrey Grosenbach
