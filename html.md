@@ -51,3 +51,11 @@ COMPLETED | 09/04/2016
 
 - Introduction and Project Overview
 - Your First Day with HTML
+
+## HTML5 Browser Caching by Ben Schwarz
+COMPLETED | 09/04/2016
+
+- Getting Started
+- Feedback
+- JavaScript
+- Rails 3.2
