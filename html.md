@@ -45,3 +45,9 @@ COMPLETED | 23/01/2016
 
 - Introduction and Project Overview
 - Semantic HTML
+
+## Your First Day with HTML by Susan Simkins
+COMPLETED | 09/04/2016
+
+- Introduction and Project Overview
+- Your First Day with HTML
