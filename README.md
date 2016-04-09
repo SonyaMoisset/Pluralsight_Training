@@ -54,6 +54,7 @@ Pluralsight curriculum | Completed courses: 135 | Certificates: 4
 - Using GitFlow by Kevin Jones
 
 ## HTML/HTML5
+- Your First Day with HTML by Susan Simkins
 - HTML Fundamentals by Matt Milner
 - HTML5 Fundamentals by Craig Shoemaker
 - HTML Document Flow by Susan Simkins
