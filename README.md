@@ -57,6 +57,7 @@ Pluralsight curriculum | Completed courses: 135 | Certificates: 4
 - Your First Day with HTML by Susan Simkins
 - HTML Fundamentals by Matt Milner
 - HTML5 Fundamentals by Craig Shoemaker
+- HTML5 Browser Caching by Ben Schwarz
 - HTML Document Flow by Susan Simkins
 - Semantic HTML by Susan Simkins
 - Get Started With HTML5 Boilerplate by Chris Reynolds
