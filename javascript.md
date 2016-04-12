@@ -285,3 +285,11 @@ COMPLETED | 07/04/2016
 - Generics
 - Compiler Options and Project Configuration
 - Type Definitions
+
+## Practical TypeScript Migration by Steve Ognibene
+COMPLETED | 12/04/2016
+
+- TypeScript Introduction
+- The First Conversion
+- TypeScript Migration Toolbox and Workflow
+- TypeScript Build and Test Pipeline
