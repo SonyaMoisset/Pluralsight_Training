@@ -141,6 +141,7 @@ Pluralsight curriculum | Completed courses: 135 | Certificates: 4
 - Kendo UI and AngularJS from Scratch by Jesse Liberty
 - Testing AngularJS From Scratch by Jesse Liberty
 - Angular Material Fundamentals by Ajden Towfeek
+- Animating AngularJS Applications by Kevin Weeks
 - Angular 2: First Look by John Papa
 - Angular 2: Getting Started by Deborah Kurata
 
