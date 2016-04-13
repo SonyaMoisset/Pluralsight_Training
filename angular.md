@@ -100,3 +100,12 @@ COMPLETED | 05/04/2016
 - Navigation and Routing
 - Angular 2 Setup Revisited
 - Final Words
+
+## AngularJS: Get Started by Scott Allen
+COMPLETED | 13/04/2016
+
+- An Introduction
+- Controllers
+- Directives and Views
+- Services
+- Routing
