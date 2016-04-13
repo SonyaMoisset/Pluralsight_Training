@@ -1,5 +1,5 @@
 # Pluralsight
-Pluralsight curriculum | Completed courses: 135 | Certificates: 4
+Pluralsight curriculum | Completed courses: 142
 
 ## Programming Languages
 - Clean Code: Writing Code for Humans by Cory House
@@ -180,12 +180,3 @@ Pluralsight curriculum | Completed courses: 135 | Certificates: 4
 
 ## Big Data
 - Understanding Machine Learning by David Chappell
-
-## In Progress
-- Advanced JavaScript
-- jQuery-free JavaScript
-- Building a Real-time App with React, Flux, Webpack, and Firebase
-- Building Data-driven React Applications with Relay, GraphQL, and Flux
-- Hands On Responsive Web Design
-- Introduction to Building Website Layouts
-- Getting Started with Android Material Design
