@@ -132,6 +132,7 @@ Pluralsight curriculum | Completed courses: 135 | Certificates: 4
 - Knockout Fundamentals by Steve Michelotti
 
 ## Angular
+- AngularJS: Get Started by Scott Allen
 - Angular: The Big Picture by Joe Eames
 - Creating a Mobile First Website with AngularJS and Sass by Zulfeekar Cheriyampurath
 - Play by Play: Learning AngularJS With Ken Cenerelli and John Papa by John Papa and Geoffrey Grosenbach
