@@ -109,3 +109,11 @@ COMPLETED | 13/04/2016
 - Directives and Views
 - Services
 - Routing
+
+## Animating AngularJS Applications by Kevin Weeks
+COMPLETED | 13/04/2016
+
+- Getting Started
+- Animating Core Directives
+- Animating Custom Directives with CSS and JavaScript
+- Debugging and Testing Animations
