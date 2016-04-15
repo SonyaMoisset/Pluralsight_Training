@@ -117,3 +117,16 @@ COMPLETED | 13/04/2016
 - Animating Core Directives
 - Animating Custom Directives with CSS and JavaScript
 - Debugging and Testing Animations
+
+## AngularJS Patterns: Clean Code by John Papa
+COMPLETED | 15/04/2016
+
+- Course Introduction
+- Separation of Concern
+- Organizing Your App
+- Modules
+- Readable Code and AngularJS
+- Controller Patterns
+- Annotations and Code Analysis via Gulp Task Automation
+- Exception Handling
+- Using a Team Style Guide
