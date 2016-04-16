@@ -1,5 +1,5 @@
 # Pluralsight
-Pluralsight curriculum | Completed courses: 142
+Pluralsight curriculum | Completed courses: 143
 
 ## Programming Languages
 - Clean Code: Writing Code for Humans by Cory House
