@@ -130,3 +130,11 @@ COMPLETED | 15/04/2016
 - Annotations and Code Analysis via Gulp Task Automation
 - Exception Handling
 - Using a Team Style Guide
+
+## Introduction to #Protractor by Nate Taylor
+COMPLETED | 18/04/2016
+
+- Getting Started
+- Writing Our First Test
+- Locators & Tests Suites
+- Page Objects
