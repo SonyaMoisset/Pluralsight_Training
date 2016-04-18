@@ -141,6 +141,7 @@ Pluralsight curriculum | Completed courses: 143
 - Play by Play: Angular with Typescript with John Papa and Christopher Martin by John Papa and Christopher Martin
 - Kendo UI and AngularJS from Scratch by Jesse Liberty
 - Testing AngularJS From Scratch by Jesse Liberty
+- Introduction to Protractor by Nate Taylor
 - Angular Material Fundamentals by Ajden Towfeek
 - Animating AngularJS Applications by Kevin Weeks
 - Angular 2: First Look by John Papa
