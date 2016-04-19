@@ -136,6 +136,7 @@ Pluralsight curriculum | Completed courses: 143
 - Angular: The Big Picture by Joe Eames
 - AngularJS Patterns: Clean Code by John Papa
 - Creating a Mobile First Website with AngularJS and Sass by Zulfeekar Cheriyampurath
+- Building Applications with Angular, Firebase, and AngularFire by Joe Eames
 - Play by Play: Learning AngularJS With Ken Cenerelli and John Papa by John Papa and Geoffrey Grosenbach
 - Play By Play: Angular Internationalization with John Papa and Brian Clark by John Papa and Brian Clark
 - Play by Play: Angular with Typescript with John Papa and Christopher Martin by John Papa and Christopher Martin
