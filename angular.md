@@ -138,3 +138,14 @@ COMPLETED | 18/04/2016
 - Writing Our First Test
 - Locators & Tests Suites
 - Page Objects
+
+## Building Applications with Angular, Firebase, and AngularFire by Joe Eames
+COMPLETED | 19/04/2016
+
+- Course Overview
+- Introduction
+- Firebase Basics
+- Introduction to AngularFire
+- Authentication
+- Using $firebaseObject
+- Using $firebaseArray
