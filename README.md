@@ -1,5 +1,5 @@
 # Pluralsight
-Pluralsight curriculum    
+Pluralsight curriculum & paths    
 Online Training/Courses   
 Completed courses: 150
 
