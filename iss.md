@@ -7,4 +7,10 @@ COMPLETED | 06/07/2016
 - Key stores in files, obtaining a certificate and Certificate Authorities
 
 ## IIS for Developers by Steve Evans
-IN PROGRESS
+COMPLETED | 06/07/2016
+
+- IIS Setup
+- IIS Configuration
+- Manage IIS
+- IIS Extensions
+- IIS Expressions- IIS 8 - What's New
