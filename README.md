@@ -1,7 +1,9 @@
 # Pluralsight
-Pluralsight curriculum | Completed courses: 143
+Pluralsight curriculum & paths    
+Online Training/Courses/Curriculum   
+Completed courses: 150
 
-## Programming Languages
+## Other Programming Languages
 - Clean Code: Writing Code for Humans by Cory House
 - C Programming Language Fundamentals by Kenny Kerr
 - Play by Play: C# Q&A with Scott Allen and Jon Skeet by Scott Allen, Jon Skeet, and Rob Conery
