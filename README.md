@@ -192,3 +192,4 @@ Completed courses: 150
 
 ## Umbraco
 - Umbraco Jumpstart by Aaron Powell
+- Using ASP.NET MVC with Umbraco by Aaron Powell
