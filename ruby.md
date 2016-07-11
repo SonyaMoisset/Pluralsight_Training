@@ -10,7 +10,6 @@ COMPLETED | 10/07/2016
 - Coding Assistance
 - Micro Code Generation & Templating
 - Grab Bag of Useful Extras
-- 
 
 ## Test-driven Rails with RSpec, Capybara, and Cucumber by Rem Zolotykh
 COMPLETED | 10/07/2016
