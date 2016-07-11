@@ -1,5 +1,12 @@
 # Agile
 
+## Kanban Fundamentals by Steve Smith
+COMPLETED | 18/02/2016
+
+- Kanban Fundamentals : Basic Concepts
+- Kanban Fundamentals : Personal Kanban
+- Kanban Fundamentals : Team Kanban
+
 ## JIRA Fundamentals by Jan-Erik Sandberg
 COMPLETED | 11/07/2016
 
