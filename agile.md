@@ -9,3 +9,12 @@ COMPLETED | 11/07/2016
 - Configuring
 - Reporting
 - Administrating and Extending
+
+## Scrum Development with Jira & JIRA Agile by Xavier Morera
+COMPLETED | 11/07/2016
+- Introduction
+- Concepts of Scrum Development with Jira & Jira Agile
+- Getting Started with Jira & Jira Agile
+- Sprint Planning & Sprint Retrospective
+- Scrum & Sprints
+- Conclusion of JIRA Agile & Scrum
