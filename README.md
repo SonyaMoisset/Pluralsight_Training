@@ -190,6 +190,9 @@ Completed courses: 155
 - IIS for Developers by Steve Evans
 - Introduction to IIS Certificates by Paul Lemmers
 
+## Agile
+- JIRA Fundamentals by Jan-Erik Sandberg
+
 ## Umbraco
 - Umbraco Jumpstart by Aaron Powell
 - Using ASP.NET MVC with Umbraco by Aaron Powell
