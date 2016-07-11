@@ -193,3 +193,7 @@ Completed courses: 155
 ## Umbraco
 - Umbraco Jumpstart by Aaron Powell
 - Using ASP.NET MVC with Umbraco by Aaron Powell
+
+## Ruby
+- ReSharper Fundamentals by James Kovacs
+- Test-driven Rails with RSpec, Capybara, and Cucumber by Rem Zolotykh
