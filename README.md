@@ -192,6 +192,7 @@ Completed courses: 155
 
 ## Agile
 - JIRA Fundamentals by Jan-Erik Sandberg
+- Scrum Development with Jira & JIRA Agile by Xavier Morera
 
 ## Umbraco
 - Umbraco Jumpstart by Aaron Powell
