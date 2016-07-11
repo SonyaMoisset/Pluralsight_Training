@@ -42,7 +42,6 @@ Completed courses: 155
 - Static Websites with Jekyll by Ryan Irelan
 - Resumes, Job Seeking, and Interviews in Context by Robbe Morris
 - LinkedIn Strategy: Optimize Your Profile by Jason Alba
-- Kanban Fundamentals by Steve Smith
 - Regular Expressions Fundamentals by Juliette Reinders Folmer
 - Code Testability by Misko Hevery
 - Pair Programming by Brendan Enrick and Steve Smith
@@ -193,6 +192,8 @@ Completed courses: 155
 ## Agile
 - JIRA Fundamentals by Jan-Erik Sandberg
 - Scrum Development with Jira & JIRA Agile by Xavier Morera
+- Kanban Development With Jira Agile by Xavier Morera
+- Kanban Fundamentals by Steve Smith
 
 ## Umbraco
 - Umbraco Jumpstart by Aaron Powell
