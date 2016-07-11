@@ -118,13 +118,6 @@ COMPLETED | 10/02/2016
 - Babel in Your Build
 - Babel with Node.js and Unit Tests
 
-## Kanban Fundamentals by Steve Smith
-COMPLETED | 18/02/2016
-
-- Kanban Fundamentals : Basic Concepts
-- Kanban Fundamentals : Personal Kanban
-- Kanban Fundamentals : Team Kanban
-
 ## Yeoman Fundamentals by Steve Michelotti
 COMPLETED | 19/02/2016
 
