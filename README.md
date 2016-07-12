@@ -1,6 +1,5 @@
 # Pluralsight
 Pluralsight curriculum & paths    
-Online Curriculum   
 Completed courses: 155
 
 ## Other Programming Languages
