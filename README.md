@@ -199,5 +199,6 @@ Completed courses: 155
 - Using ASP.NET MVC with Umbraco by Aaron Powell
 
 ## Ruby
+- Idiomatic Ruby by Michael Ries
 - ReSharper Fundamentals by James Kovacs
 - Test-driven Rails with RSpec, Capybara, and Cucumber by Rem Zolotykh
