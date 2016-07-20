@@ -5,7 +5,6 @@ Completed courses: 155
 ## Other Programming Languages
 - Clean Code: Writing Code for Humans by Cory House
 - C Programming Language Fundamentals by Kenny Kerr
-- Play by Play: C# Q&A with Scott Allen and Jon Skeet by Scott Allen, Jon Skeet, and Rob Conery
 - Go: Getting Started by Mike Van Sickle
 
 ## Front End Development Development
@@ -202,3 +201,7 @@ Completed courses: 155
 - Idiomatic Ruby by Michael Ries
 - ReSharper Fundamentals by James Kovacs
 - Test-driven Rails with RSpec, Capybara, and Cucumber by Rem Zolotykh
+
+## C#
+- Play by Play: C# Q&A with Scott Allen and Jon Skeet by Scott Allen, Jon Skeet, and Rob Conery
+- Teaching Kids Programming with C# by Llewellyn Falco and Lynn Langit
