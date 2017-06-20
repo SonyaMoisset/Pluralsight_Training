@@ -1,6 +1,6 @@
 # Pluralsight
 Pluralsight online curriculum    
-Completed courses: 156
+Completed courses: 157
 
 ## Other Programming Languages
 - Clean Code: Writing Code for Humans by Cory House
@@ -153,6 +153,7 @@ Completed courses: 156
 - Play by Play: React and Falcor with Brian Holt by Brian Holt and Geoffrey Grosenbach
 - React Fundamentals by Liam McLennan
 - React and Flux for Angular Developers by Tony Alicea
+- Creating Reusable React Components by Cory House
 
 ## Meteor
 - Meteor.js Fundamentals for Single Page Applications by John Sonmez
