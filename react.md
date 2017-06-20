@@ -47,3 +47,6 @@ COMPLETED | 13/02/2016
 - Flux: One Way Data Flow vs. Scope and MV*
 - Flux: Stores vs. Services
 - React and Flux in the Real World
+
+## Creating Reusable React Components by Cory House
+COMPLETED | 20/06/2017
