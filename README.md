@@ -1,13 +1,13 @@
 # Pluralsight
 Pluralsight online curriculum    
-Completed courses: 157
+Completed courses: 158
 
 ## Other Programming Languages
 - Clean Code: Writing Code for Humans by Cory House
 - C Programming Language Fundamentals by Kenny Kerr
 - Go: Getting Started by Mike Van Sickle
 
-## Front End Development Development
+## Front End Development
 - Front End Web Development Career Kickstart by Justin Schwartzenberger
 - Introduction to the Web by Susan Simkins
 - Introduction to Web Development by Brian Holt and Nina Zakharenko
@@ -19,6 +19,7 @@ Completed courses: 157
 - TDD as a Design Tool by Nate Taylor
 - UI Architecture by Garann Means
 - User Experience Tips and Tricks for Developers by Amber Israelsen
+- Building a JavaScript Development Environment by Cory House
 
 ## Tools
 - Sublime Text 3 From Scratch by Jesse Liberty
