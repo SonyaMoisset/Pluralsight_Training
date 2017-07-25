@@ -131,6 +131,9 @@ Completed courses: 158
 ## Knockout
 - Knockout Fundamentals by Steve Michelotti
 
+## Ember
+- Getting Started with Ember 2 by Noel Peden
+
 ## Angular
 - AngularJS: Get Started by Scott Allen
 - Angular: The Big Picture by Joe Eames
