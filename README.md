@@ -1,6 +1,6 @@
 # Pluralsight
 Pluralsight online curriculum    
-Completed courses: 158
+Completed courses: 159
 
 ## Other Programming Languages
 - Clean Code: Writing Code for Humans by Cory House
