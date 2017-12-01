@@ -210,3 +210,6 @@ Completed courses: 159
 ## C#
 - Play by Play: C# Q&A with Scott Allen and Jon Skeet by Scott Allen, Jon Skeet, and Rob Conery
 - Teaching Kids Programming with C# by Llewellyn Falco and Lynn Langit
+
+## Security
+- Web Application Penetration Testing Fundamentals by Mike Woolard
