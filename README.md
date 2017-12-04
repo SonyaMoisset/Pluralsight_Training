@@ -1,6 +1,6 @@
 # Pluralsight
 Pluralsight online curriculum    
-Completed courses: 159
+Completed courses: 160
 
 ## Other Programming Languages
 - Clean Code: Writing Code for Humans by Cory House
@@ -213,3 +213,6 @@ Completed courses: 159
 
 ## Security
 - Web Application Penetration Testing Fundamentals by Mike Woolard
+
+## Android
+- Start Developing for Android by Chiu-Ki Chan
