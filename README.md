@@ -1,6 +1,6 @@
 # Pluralsight
 Pluralsight online curriculum    
-Completed courses: 161
+Completed courses: 162
 
 ## Other Programming Languages
 - Clean Code: Writing Code for Humans by Cory House
@@ -217,3 +217,4 @@ Completed courses: 161
 ## Android
 - Start Developing for Android by Chiu-Ki Chan
 - Android Fundamentals: Activities by Sriyank Siddhartha
+- Android Fundamentals: Intents by Chiu-Ki Chan
