@@ -19,3 +19,10 @@ COMPLETED | 10/12/2017
 - Validation of an Anti-CSRF Token
 - Underestimated Risk: A Login CSRF Attack
 - Regeneration of an Anti-CSRF Token
+
+## Penetration Testing in Action
+COMPLETED | 10/12/2017
+
+- Initial Compromise
+- Hunting Internal Targets
+- Owning the Doamin
