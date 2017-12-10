@@ -11,3 +11,11 @@ COMPLETED | 01/12/2017
 - Common Attack Methods
 - Discovering Logic Flaws
 - Reporting
+
+## Web App Hacking: Cross-Site Request Forgery (CSRF)
+COMPLETED | 10/12/2017
+
+- Understanding a CSRF Attack
+- Validation of an Anti-CSRF Token
+- Underestimated Risk: A Login CSRF Attack
+- Regeneration of an Anti-CSRF Token
