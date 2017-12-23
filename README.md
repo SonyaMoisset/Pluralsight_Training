@@ -1,6 +1,6 @@
 # Pluralsight
 Pluralsight online curriculum    
-Completed courses: 164
+Completed courses: 165
 
 ## Other Programming Languages
 - Clean Code: Writing Code for Humans by Cory House
@@ -215,6 +215,9 @@ Completed courses: 164
 - Web Application Penetration Testing Fundamentals by Mike Woolard
 - Web App Hacking: Cross-Site Request Forgery (CSRF) by Dawid Czagan
 - Penetration Testing in Action by Daniel Teixeira
+
+## Blockchain
+- Surveying Blockchain Technologies for Enterprise by Scott Driscoll
 
 ## Android
 - Start Developing for Android by Chiu-Ki Chan
