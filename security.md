@@ -26,3 +26,14 @@ COMPLETED | 10/12/2017
 - Initial Compromise
 - Hunting Internal Targets
 - Owning the Doamin
+
+
+## Creating a Security-centric Culture
+COMPLETED | 19/01/2018
+
+- Unify Security and Development Teams
+- Understand Your Audience
+- Create Security Champions
+- Make Security a Quality Metric
+- Run an Internal bug Bounty
+- Dreice a Security-centric Culture from the Top
