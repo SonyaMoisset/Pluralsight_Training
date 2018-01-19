@@ -215,6 +215,7 @@ Completed courses: 165
 - Web Application Penetration Testing Fundamentals by Mike Woolard
 - Web App Hacking: Cross-Site Request Forgery (CSRF) by Dawid Czagan
 - Penetration Testing in Action by Daniel Teixeira
+- Creating a Security-centric Culture by Troy Hunt
 
 ## Blockchain
 - Surveying Blockchain Technologies for Enterprise by Scott Driscoll
