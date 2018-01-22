@@ -216,6 +216,7 @@ Completed courses: 165
 - Web App Hacking: Cross-Site Request Forgery (CSRF) by Dawid Czagan
 - Penetration Testing in Action by Daniel Teixeira
 - Creating a Security-centric Culture by Troy Hunt
+- Play by Play: What You Need to Know About HTTPS Today by Lars Klint and Troy Hunt
 
 ## Blockchain
 - Surveying Blockchain Technologies for Enterprise by Scott Driscoll
