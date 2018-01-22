@@ -1,6 +1,6 @@
 # Pluralsight
 Pluralsight online curriculum    
-Completed courses: 165
+Completed courses: 169
 
 ## Other Programming Languages
 - Clean Code: Writing Code for Humans by Cory House
@@ -217,6 +217,7 @@ Completed courses: 165
 - Penetration Testing in Action by Daniel Teixeira
 - Creating a Security-centric Culture by Troy Hunt
 - Play by Play: What You Need to Know About HTTPS Today by Lars Klint and Troy Hunt
+- Security Awareness: Mobile Devices by Jason Helmick
 
 ## Blockchain
 - Surveying Blockchain Technologies for Enterprise by Scott Driscoll
