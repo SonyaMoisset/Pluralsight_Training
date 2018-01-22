@@ -37,3 +37,10 @@ COMPLETED | 19/01/2018
 - Make Security a Quality Metric
 - Run an Internal bug Bounty
 - Dreice a Security-centric Culture from the Top
+
+## Play by Play: What You Need to Know About HTTPS Today
+COMPLETED | 22/01/2018
+
+- HTTPS Introduction
+- Why Do You Need HTTPS?
+- The RIS of HTTPS
