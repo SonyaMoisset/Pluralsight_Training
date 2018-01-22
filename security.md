@@ -44,3 +44,9 @@ COMPLETED | 22/01/2018
 - HTTPS Introduction
 - Why Do You Need HTTPS?
 - The RIS of HTTPS
+
+## Security Awareness: Mobile Devices
+COMPLETED | 22/01/2018
+- The Security Threats You Face
+- Company Owned Mobile Device Security
+- The Master Plan to Protect Mobile Devices
