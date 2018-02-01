@@ -219,6 +219,7 @@ Completed courses: 170
 - Play by Play: What You Need to Know About HTTPS Today by Lars Klint and Troy Hunt
 - Security Awareness: Mobile Devices by Jason Helmick
 - Web App Hacking: Caching Problems by Dawid Czagan
+- Web App Hacking: Hacking Password Reset Functionality by Dawid Czagan
 
 ## Blockchain
 - Surveying Blockchain Technologies for Enterprise by Scott Driscoll
