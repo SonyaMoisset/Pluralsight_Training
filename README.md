@@ -220,6 +220,7 @@ Completed courses: 170
 - Security Awareness: Mobile Devices by Jason Helmick
 - Web App Hacking: Caching Problems by Dawid Czagan
 - Web App Hacking: Hacking Password Reset Functionality by Dawid Czagan
+- Security for Hackers and Developers: Overview by Dr. Jared DeMott
 
 ## Blockchain
 - Surveying Blockchain Technologies for Enterprise by Scott Driscoll
