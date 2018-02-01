@@ -59,3 +59,10 @@ COMPLETED | 01/02/2018
 - Insecure Session Management
 - Weaknesses in Lifecycle of Password Reset Link
 - User Enumeration
+
+## Security for Hackers and Developers: Overview
+COMPLETED | 01/02/2018
+- Understanding the SDL
+- Uncovering Security Bugs
+- Using Static Analysis
+- Pentesting Code
