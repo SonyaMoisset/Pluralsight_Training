@@ -52,3 +52,10 @@ COMPLETED | 22/01/2018
 - Caching of Credit Card Data
 - Sensitive Data in the URL
 
+## Web App Hacking: Hacking Password Reset Functionality
+COMPLETED | 01/02/2018
+- Leakage of Password Reset Link
+- Insecure Direct Object Reference
+- Insecure Session Management
+- Weaknesses in Lifecycle of Password Reset Link
+- User Enumeration
