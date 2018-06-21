@@ -1,6 +1,6 @@
 # Pluralsight
 Pluralsight online curriculum    
-Completed courses: 170
+Completed courses: 175
 
 ## Other Programming Languages
 - Clean Code: Writing Code for Humans by Cory House
@@ -184,6 +184,7 @@ Completed courses: 170
 
 ## API
 - Google Maps API: Get Started by Mark Lewin
+- Creating Web APIs That Developers Will Love by Kirsten Hunter
 
 ## Big Data
 - Understanding Machine Learning by David Chappell
@@ -221,6 +222,24 @@ Completed courses: 170
 - Web App Hacking: Caching Problems by Dawid Czagan
 - Web App Hacking: Hacking Password Reset Functionality by Dawid Czagan
 - Security for Hackers and Developers: Overview by Dr. Jared DeMott
+- Play by Play: OWASP Top 10 2016 by Troy Hunt and Andrew van der Stock
+- Play by Play: JavaScript Security by Aaron Powell and Troy Hunt
+- Play by Play: Modern Web Security Patterns by Troy Hunt and Lars Klint
+
+## Microservices
+- Microservices: The Big Picture by Antonio Goncalves
+- Microservices Architecture by Rag Dhiman
+
+## Architecture
+- Security Architecture by Kevin Henry
+
+## Cloud Computing
+- Cloud Computing: The Big Picture by David Chappell
+
+## AWS
+- AWS Developer: The Big Picture by Ryan Lewis
+- Navigating the AWS Management Console by Andreas Wittig and Michael Wittig
+- Building Scalable APIs with the AWS API Gateway by Will Button
 
 ## Blockchain
 - Surveying Blockchain Technologies for Enterprise by Scott Driscoll
