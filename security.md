@@ -71,3 +71,8 @@ COMPLETED | 01/02/2018
 COMPLETED
 - Architecture Design
 - Architecture Items
+
+## Play by Play Series
+- OWASP Top 10 2017
+- JavaScript Security
+- Modern Web Security Patterns
