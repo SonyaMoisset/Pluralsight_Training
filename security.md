@@ -66,3 +66,8 @@ COMPLETED | 01/02/2018
 - Uncovering Security Bugs
 - Using Static Analysis
 - Pentesting Code
+
+## Security Architecture
+COMPLETED
+- Architecture Design
+- Architecture Items
