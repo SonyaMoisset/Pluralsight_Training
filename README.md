@@ -1,6 +1,6 @@
 # Pluralsight
 Pluralsight online curriculum    
-Completed courses: 175
+Completed courses: 185
 
 ## Other Programming Languages
 - Clean Code: Writing Code for Humans by Cory House
@@ -225,6 +225,14 @@ Completed courses: 175
 - Play by Play: OWASP Top 10 2016 by Troy Hunt and Andrew van der Stock
 - Play by Play: JavaScript Security by Aaron Powell and Troy Hunt
 - Play by Play: Modern Web Security Patterns by Troy Hunt and Lars Klint
+- Play by Play: Bug Bounties for Companies by Casey Ellis and Troy Hunt
+
+## Ethical Hacking
+- Ethical Hacking: Understanding Ethical Hacking by Dale Meredith
+- Ethical Hacking: Reconnaissance/Footprinting by Dale Meredith
+- Ethical Hacking: Scanning Networks by Dale Meredith
+- Ethical Hacking: Enumeration by Dale Meredith
+- Ethical Hacking: System Hacking by Dale Meredith
 
 ## Microservices
 - Microservices: The Big Picture by Antonio Goncalves
@@ -236,10 +244,16 @@ Completed courses: 175
 ## Cloud Computing
 - Cloud Computing: The Big Picture by David Chappell
 
+## Virtualization
+- Virtualization: The Big Picture by David Davis
+
 ## AWS
 - AWS Developer: The Big Picture by Ryan Lewis
+- Getting Started with AWS Developer Tools by Joe Kelley
 - Navigating the AWS Management Console by Andreas Wittig and Michael Wittig
 - Building Scalable APIs with the AWS API Gateway by Will Button
+- Monitoring Servers and Services with AWS CloudWatch by Ben Thomas
+- Automating AWS with CloudFormation by Andreas Wittig
 
 ## Blockchain
 - Surveying Blockchain Technologies for Enterprise by Scott Driscoll
