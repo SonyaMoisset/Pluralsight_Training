@@ -1,6 +1,6 @@
 # Pluralsight
 Pluralsight online curriculum    
-Completed courses: 190
+Completed courses: 195
 
 ## Other Programming Languages
 - Clean Code: Writing Code for Humans by Cory House
@@ -236,6 +236,10 @@ Completed courses: 190
 - Ethical Hacking: Malware Threats by Dale Meredith
 - Ethical Hacking: Sniffing by Dale Meredith
 - Ethical Hacking: Buffer Overflow by James D. Murray
+- Ethical Hacking: Social Engineering by Troy Hunt
+- Ethical Hacking: Denial of Service by Troy Hunt
+- Ethical Hacking: Session Hijacking by Troy Hunt
+- Ethical Hacking: Hacking Web Servers by Troy Hunt
 
 ## Microservices
 - Microservices: The Big Picture by Antonio Goncalves
