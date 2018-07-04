@@ -1,6 +1,6 @@
 # Pluralsight
 Pluralsight online curriculum    
-Completed courses: 195
+Completed courses: 200
 
 ## Other Programming Languages
 - Clean Code: Writing Code for Humans by Cory House
@@ -240,6 +240,12 @@ Completed courses: 195
 - Ethical Hacking: Denial of Service by Troy Hunt
 - Ethical Hacking: Session Hijacking by Troy Hunt
 - Ethical Hacking: Hacking Web Servers by Troy Hunt
+- Ethical Hacking: Hacking Web Applications by Troy Hunt
+
+# Web App Hacking
+- Web App Hacking: Cookie Attacks by Dawid Czagan
+- Web App Hacking: Hacking Password Reset Functionality by Dawid Czagan
+- Web App Hacking: Sensitive Data Exposure by Dawid Czagan
 
 ## Microservices
 - Microservices: The Big Picture by Antonio Goncalves
