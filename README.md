@@ -1,6 +1,6 @@
 # Pluralsight
 Pluralsight online curriculum    
-Completed courses: 200
+Completed courses: 205
 
 ## Other Programming Languages
 - Clean Code: Writing Code for Humans by Cory House
@@ -246,6 +246,13 @@ Completed courses: 200
 - Web App Hacking: Cookie Attacks by Dawid Czagan
 - Web App Hacking: Hacking Password Reset Functionality by Dawid Czagan
 - Web App Hacking: Sensitive Data Exposure by Dawid Czagan
+- Web App Hacking: Caching Problems by Dawid Czagan
+- Web App Hacking: Hacking Authentication by Dawid Czagan
+- Web App Hacking: CSRF by Dawid Czagan
+- Web App Hacking: Hacking XML Processing by Dawid Czagan
+
+# CSSLP
+- CSSLP: Secure Software Concepts
 
 ## Microservices
 - Microservices: The Big Picture by Antonio Goncalves
