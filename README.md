@@ -227,6 +227,7 @@ Completed courses: 205
 - Play by Play: Modern Web Security Patterns by Troy Hunt and Lars Klint
 - Play by Play: Bug Bounties for Companies by Casey Ellis and Troy Hunt
 - Adapting to the New Normal: Embracing a Security Culture of Continual Change by Troy Hunt
+- Modern Browser Security Reports by Troy Hunt and Scott Helme
 
 ## Ethical Hacking
 - Ethical Hacking: Understanding Ethical Hacking by Dale Meredith
