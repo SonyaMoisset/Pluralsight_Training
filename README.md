@@ -226,6 +226,7 @@ Completed courses: 205
 - Play by Play: JavaScript Security by Aaron Powell and Troy Hunt
 - Play by Play: Modern Web Security Patterns by Troy Hunt and Lars Klint
 - Play by Play: Bug Bounties for Companies by Casey Ellis and Troy Hunt
+- Adapting to the New Normal: Embracing a Security Culture of Continual Change by Troy Hunt
 
 ## Ethical Hacking
 - Ethical Hacking: Understanding Ethical Hacking by Dale Meredith
